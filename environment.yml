@@ -1,0 +1,15 @@
+name: tazmod
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - geopandas
+  - pyogrio
+  - shapely
+  - pyproj
+  - fiona
+  - pandas
+  - numpy
+  - jupyter

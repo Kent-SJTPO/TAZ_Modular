@@ -1,0 +1,1109 @@
+TAZ_ID,Old_Ac,New_Ac,Ac_Chg,Ac_Pct,Cent_Dist,QA_Flag,QA_Note
+1,8395.73,139.84,-8255.89,-98.33,296138.0,MAJOR,Major change - investigate
+10,327.31,9.31,-317.99,-97.15,314729.0,MAJOR,Major change - investigate
+100,559.77,34.01,-525.76,-93.92,42246.5,MAJOR,Major change - investigate
+1000,3.57,8055.79,8052.22,225299.13,255351.1,MAJOR,Major change - investigate
+1001,229.0,2863.48,2634.48,1150.43,264695.1,MAJOR,Major change - investigate
+1002,183.4,1198.03,1014.62,553.21,247651.0,MAJOR,Major change - investigate
+1003,255.81,10885.14,10629.32,4155.09,253123.6,MAJOR,Major change - investigate
+101,3257.77,1.64,-3256.13,-99.95,61744.8,MAJOR,Major change - investigate
+102,308.26,53.56,-254.7,-82.62,55775.9,MAJOR,Major change - investigate
+1026,187.86,7892.43,7704.58,4101.34,315617.0,MAJOR,Major change - investigate
+1027,817.32,498.54,-318.78,-39.0,304268.1,MAJOR,Major change - investigate
+1028,11.57,3411.66,3400.09,29391.89,286855.4,MAJOR,Major change - investigate
+1029,18.92,5889.04,5870.12,31028.23,274235.9,MAJOR,Major change - investigate
+1030,53.42,15399.1,15345.68,28726.3,294326.0,MAJOR,Major change - investigate
+1031,139.12,6967.86,6828.75,4908.7,313848.8,MAJOR,Major change - investigate
+1032,5.82,1330.65,1324.84,22781.69,310275.6,MAJOR,Major change - investigate
+1033,24.87,244.78,219.91,884.38,301722.6,MAJOR,Major change - investigate
+1034,48.41,2904.55,2856.14,5899.93,266052.1,MAJOR,Major change - investigate
+1035,42.06,1849.47,1807.41,4297.67,274852.1,MAJOR,Major change - investigate
+1036,33.09,1547.33,1514.24,4576.55,284859.8,MAJOR,Major change - investigate
+1037,126.7,4014.19,3887.49,3068.37,273881.3,MAJOR,Major change - investigate
+1038,90.61,2310.19,2219.58,2449.7,288520.4,MAJOR,Major change - investigate
+1039,17.52,1141.3,1123.79,6415.6,258505.4,MAJOR,Major change - investigate
+104,5783.87,10.46,-5773.41,-99.82,72261.6,MAJOR,Major change - investigate
+1040,37.83,1857.32,1819.49,4809.65,295200.3,MAJOR,Major change - investigate
+1041,86.86,528.73,441.87,508.7,276828.1,MAJOR,Major change - investigate
+1042,9.04,1499.36,1490.32,16478.43,282894.0,MAJOR,Major change - investigate
+1043,40.51,2067.25,2026.74,5002.91,266081.2,MAJOR,Major change - investigate
+1044,33.09,2743.02,2709.92,8188.69,269129.8,MAJOR,Major change - investigate
+1045,14.51,2584.93,2570.42,17716.73,276977.5,MAJOR,Major change - investigate
+1046,14.77,1049.44,1034.66,7002.8,253980.0,MAJOR,Major change - investigate
+1047,35.79,2508.36,2472.57,6908.57,251364.1,MAJOR,Major change - investigate
+1048,113.33,1304.92,1191.6,1051.46,250364.2,MAJOR,Major change - investigate
+1049,15.36,7397.4,7382.04,48065.24,262611.8,MAJOR,Major change - investigate
+1050,4.91,301.0,296.09,6024.73,216605.7,MAJOR,Major change - investigate
+1051,83.93,1981.75,1897.82,2261.31,215089.5,MAJOR,Major change - investigate
+1052,13.03,2405.53,2392.51,18367.5,209707.3,MAJOR,Major change - investigate
+1053,35.14,690.33,655.19,1864.65,216532.8,MAJOR,Major change - investigate
+1054,14.77,2827.96,2813.19,19047.58,226111.0,MAJOR,Major change - investigate
+1055,21.59,3445.69,3424.1,15856.73,218505.3,MAJOR,Major change - investigate
+1056,17.14,764.11,746.97,4357.77,219842.7,MAJOR,Major change - investigate
+1057,14.69,911.11,896.42,6102.42,188130.3,MAJOR,Major change - investigate
+1058,14.35,242.27,227.92,1588.41,187950.5,MAJOR,Major change - investigate
+1059,42.79,1109.23,1066.44,2492.02,192257.4,MAJOR,Major change - investigate
+106,2544.95,5.9,-2539.05,-99.77,118286.4,MAJOR,Major change - investigate
+1060,19.81,507.8,488.0,2463.7,193844.2,MAJOR,Major change - investigate
+1061,10.94,1233.83,1222.89,11179.13,198593.3,MAJOR,Major change - investigate
+1062,15.55,492.23,476.68,3066.18,187752.7,MAJOR,Major change - investigate
+1063,18.13,1450.68,1432.55,7901.84,191529.7,MAJOR,Major change - investigate
+1064,65.95,888.04,822.09,1246.58,197360.7,MAJOR,Major change - investigate
+1065,66.21,482.45,416.24,628.67,190444.8,MAJOR,Major change - investigate
+1066,25.02,993.33,968.31,3869.48,196500.5,MAJOR,Major change - investigate
+1067,18.61,460.11,441.51,2372.94,196723.1,MAJOR,Major change - investigate
+1068,26.75,1858.06,1831.31,6846.01,194680.8,MAJOR,Major change - investigate
+1069,41.41,1482.42,1441.02,3480.25,207489.6,MAJOR,Major change - investigate
+107,6916.8,5.78,-6911.02,-99.92,113647.8,MAJOR,Major change - investigate
+1070,85.48,1946.26,1860.79,2176.92,210235.0,MAJOR,Major change - investigate
+1071,90.73,1431.26,1340.53,1477.46,206468.7,MAJOR,Major change - investigate
+1072,21.73,625.03,603.31,2776.76,205055.2,MAJOR,Major change - investigate
+1073,103.1,754.64,651.55,631.99,195227.7,MAJOR,Major change - investigate
+1074,34.81,346.91,312.1,896.57,225273.7,MAJOR,Major change - investigate
+1075,12.28,237.32,225.04,1832.27,224125.1,MAJOR,Major change - investigate
+1076,22.19,1272.58,1250.4,5636.19,212928.2,MAJOR,Major change - investigate
+1077,20.08,1416.65,1396.56,6953.48,225886.6,MAJOR,Major change - investigate
+1078,68.81,138.98,70.17,101.97,238251.2,MAJOR,Major change - investigate
+1079,94.75,1437.51,1342.76,1417.11,229977.6,MAJOR,Major change - investigate
+1080,34.88,3550.59,3515.71,10080.6,251109.6,MAJOR,Major change - investigate
+1081,26.26,2554.42,2528.17,9628.18,252834.5,MAJOR,Major change - investigate
+1082,23.0,2332.02,2309.02,10041.22,245804.7,MAJOR,Major change - investigate
+1083,11.52,4232.14,4220.62,36643.44,237442.7,MAJOR,Major change - investigate
+1084,23.36,4638.95,4615.59,19755.27,239879.1,MAJOR,Major change - investigate
+1085,8.84,1973.71,1964.87,22220.33,234410.7,MAJOR,Major change - investigate
+1086,4.74,2325.33,2320.59,48932.32,223331.8,MAJOR,Major change - investigate
+1087,9.91,458.75,448.84,4529.91,255075.3,MAJOR,Major change - investigate
+1088,5.39,3730.16,3724.77,69146.18,259794.5,MAJOR,Major change - investigate
+1089,6.9,1140.7,1133.81,16437.41,255869.3,MAJOR,Major change - investigate
+109,4053.75,99.51,-3954.24,-97.55,127836.3,MAJOR,Major change - investigate
+1090,5.14,4290.35,4285.2,83336.12,263238.8,MAJOR,Major change - investigate
+1091,5.4,952.97,947.57,17535.79,271489.2,MAJOR,Major change - investigate
+1092,5.15,932.0,926.85,17982.84,276800.8,MAJOR,Major change - investigate
+1093,32.32,1744.32,1712.0,5297.18,264542.0,MAJOR,Major change - investigate
+1094,5.8,265.9,260.1,4482.73,274825.1,MAJOR,Major change - investigate
+1095,11.59,573.96,562.37,4851.31,273087.5,MAJOR,Major change - investigate
+1096,11.48,1681.65,1670.18,14550.76,278381.9,MAJOR,Major change - investigate
+1097,9.49,1053.8,1044.31,11005.24,284640.0,MAJOR,Major change - investigate
+1098,14.57,1791.65,1777.08,12199.22,287883.6,MAJOR,Major change - investigate
+1099,18.01,1603.29,1585.28,8804.0,285019.1,MAJOR,Major change - investigate
+11,863.64,103.41,-760.23,-88.03,311000.5,MAJOR,Major change - investigate
+1100,23.07,1022.18,999.12,4331.63,288232.1,MAJOR,Major change - investigate
+1101,11.73,1273.82,1262.09,10763.83,278715.7,MAJOR,Major change - investigate
+1102,2.98,315.69,312.72,10507.95,271821.4,MAJOR,Major change - investigate
+1103,5.9,256.23,250.33,4244.4,274171.4,MAJOR,Major change - investigate
+1104,5.78,462.32,456.54,7898.69,271556.0,MAJOR,Major change - investigate
+1105,13.76,285.83,272.07,1976.82,269933.3,MAJOR,Major change - investigate
+1106,5.1,2895.83,2890.73,56678.21,278744.4,MAJOR,Major change - investigate
+1107,9.78,1426.04,1416.26,14481.39,286236.3,MAJOR,Major change - investigate
+1108,13.47,1267.78,1254.31,9315.29,293648.1,MAJOR,Major change - investigate
+1109,23.18,1470.26,1447.08,6242.9,287927.8,MAJOR,Major change - investigate
+1110,5.78,1716.64,1710.86,29584.94,294636.0,MAJOR,Major change - investigate
+1111,14.81,2640.5,2625.69,17729.64,298438.2,MAJOR,Major change - investigate
+1112,3.32,6154.78,6151.47,185350.91,308616.7,MAJOR,Major change - investigate
+1113,13.78,2073.36,2059.58,14947.25,307176.3,MAJOR,Major change - investigate
+1114,3.58,4285.65,4282.07,119555.28,295331.9,MAJOR,Major change - investigate
+1115,4.29,440.06,435.77,10156.29,305000.5,MAJOR,Major change - investigate
+1116,2.89,464.75,461.86,15994.7,303367.3,MAJOR,Major change - investigate
+1117,5.94,897.06,891.12,15002.99,308257.1,MAJOR,Major change - investigate
+1118,0.76,863.66,862.9,114015.59,314032.1,MAJOR,Major change - investigate
+1119,206.75,733.0,526.25,254.53,331463.9,MAJOR,Major change - investigate
+112,5245.69,9.91,-5235.78,-99.81,98689.7,MAJOR,Major change - investigate
+1120,184.73,387.25,202.52,109.63,333727.0,MAJOR,Major change - investigate
+1121,109.03,327.6,218.57,200.47,333618.5,MAJOR,Major change - investigate
+1122,,319.84,,,,NO_MATCH,
+1123,,930.57,,,,NO_MATCH,
+1124,,848.45,,,,NO_MATCH,
+1125,,6857.13,,,,NO_MATCH,
+1126,,3367.83,,,,NO_MATCH,
+1127,,412.86,,,,NO_MATCH,
+1128,,684.22,,,,NO_MATCH,
+1129,,236.64,,,,NO_MATCH,
+113,3580.58,14.77,-3565.81,-99.59,96792.6,MAJOR,Major change - investigate
+1130,,151.05,,,,NO_MATCH,
+1131,,378.19,,,,NO_MATCH,
+1132,,309.3,,,,NO_MATCH,
+1133,,415.19,,,,NO_MATCH,
+1134,,411.73,,,,NO_MATCH,
+1135,,304.86,,,,NO_MATCH,
+1136,,728.51,,,,NO_MATCH,
+1137,,708.74,,,,NO_MATCH,
+1138,,1415.12,,,,NO_MATCH,
+1139,,1226.1,,,,NO_MATCH,
+114,3592.81,10.0,-3582.8,-99.72,88238.4,MAJOR,Major change - investigate
+1140,,2115.51,,,,NO_MATCH,
+1141,,2980.93,,,,NO_MATCH,
+1142,,78.07,,,,NO_MATCH,
+1143,,162.33,,,,NO_MATCH,
+1144,,80.51,,,,NO_MATCH,
+1145,,255.86,,,,NO_MATCH,
+1146,,162.05,,,,NO_MATCH,
+1147,,2232.01,,,,NO_MATCH,
+1148,,61.52,,,,NO_MATCH,
+1149,,2255.76,,,,NO_MATCH,
+115,1213.37,14.57,-1198.8,-98.8,160212.8,MAJOR,Major change - investigate
+1150,,1175.01,,,,NO_MATCH,
+1151,,1057.56,,,,NO_MATCH,
+1152,,925.03,,,,NO_MATCH,
+1153,,753.96,,,,NO_MATCH,
+1154,,1892.26,,,,NO_MATCH,
+1155,,2516.49,,,,NO_MATCH,
+116,569.46,22.55,-546.91,-96.04,160573.4,MAJOR,Major change - investigate
+117,286.82,11.63,-275.2,-95.95,167003.3,MAJOR,Major change - investigate
+1176,,4002.09,,,,NO_MATCH,
+1177,,2761.25,,,,NO_MATCH,
+1178,,1145.32,,,,NO_MATCH,
+1179,,709.3,,,,NO_MATCH,
+118,2044.51,23.32,-2021.19,-98.86,125775.3,MAJOR,Major change - investigate
+1180,,736.82,,,,NO_MATCH,
+1181,,977.3,,,,NO_MATCH,
+1182,,3602.07,,,,NO_MATCH,
+1183,,1405.41,,,,NO_MATCH,
+1184,,889.55,,,,NO_MATCH,
+1185,,1010.06,,,,NO_MATCH,
+1186,,2275.63,,,,NO_MATCH,
+1187,,1244.0,,,,NO_MATCH,
+1188,,3304.19,,,,NO_MATCH,
+1189,,1501.16,,,,NO_MATCH,
+119,4250.08,17.78,-4232.31,-99.58,139450.2,MAJOR,Major change - investigate
+1190,,1390.0,,,,NO_MATCH,
+1191,,885.25,,,,NO_MATCH,
+1192,,1148.37,,,,NO_MATCH,
+1193,,857.6,,,,NO_MATCH,
+1194,,639.44,,,,NO_MATCH,
+1195,,412.77,,,,NO_MATCH,
+1196,,490.86,,,,NO_MATCH,
+1197,,1096.21,,,,NO_MATCH,
+1198,,531.41,,,,NO_MATCH,
+1199,,1000.3,,,,NO_MATCH,
+12,321.11,104.78,-216.33,-67.37,320756.4,MAJOR,Major change - investigate
+120,6458.18,23.43,-6434.75,-99.64,139018.6,MAJOR,Major change - investigate
+1200,,971.22,,,,NO_MATCH,
+1201,,667.55,,,,NO_MATCH,
+1202,,1568.68,,,,NO_MATCH,
+1203,,576.21,,,,NO_MATCH,
+1204,,1003.39,,,,NO_MATCH,
+1205,,510.78,,,,NO_MATCH,
+1206,,2372.3,,,,NO_MATCH,
+1207,,830.91,,,,NO_MATCH,
+1208,,1045.49,,,,NO_MATCH,
+1209,,3014.16,,,,NO_MATCH,
+121,1981.36,126.89,-1854.47,-93.6,208949.9,MAJOR,Major change - investigate
+1210,,2782.76,,,,NO_MATCH,
+1211,,1794.58,,,,NO_MATCH,
+1212,,2582.52,,,,NO_MATCH,
+1213,,770.82,,,,NO_MATCH,
+1214,,712.15,,,,NO_MATCH,
+1215,,856.69,,,,NO_MATCH,
+1216,,459.06,,,,NO_MATCH,
+1217,,747.83,,,,NO_MATCH,
+1218,,216.46,,,,NO_MATCH,
+1219,,280.75,,,,NO_MATCH,
+122,672.63,3.99,-668.64,-99.41,212659.4,MAJOR,Major change - investigate
+1220,,856.39,,,,NO_MATCH,
+1221,,767.21,,,,NO_MATCH,
+1222,,324.82,,,,NO_MATCH,
+1223,,3000.33,,,,NO_MATCH,
+1224,,2536.58,,,,NO_MATCH,
+1225,,2741.82,,,,NO_MATCH,
+1226,,1834.99,,,,NO_MATCH,
+1227,,2352.11,,,,NO_MATCH,
+1228,,893.73,,,,NO_MATCH,
+1229,,2871.47,,,,NO_MATCH,
+1230,,882.31,,,,NO_MATCH,
+1231,,3849.61,,,,NO_MATCH,
+1232,,3096.3,,,,NO_MATCH,
+1233,,1683.82,,,,NO_MATCH,
+1234,,1727.13,,,,NO_MATCH,
+1235,,2506.81,,,,NO_MATCH,
+1236,,3548.34,,,,NO_MATCH,
+1237,,3584.3,,,,NO_MATCH,
+1238,,3396.85,,,,NO_MATCH,
+1239,,2800.73,,,,NO_MATCH,
+124,256.49,6.66,-249.82,-97.4,216272.7,MAJOR,Major change - investigate
+1240,,3047.38,,,,NO_MATCH,
+1241,,2805.97,,,,NO_MATCH,
+1242,,1927.49,,,,NO_MATCH,
+1243,,2128.61,,,,NO_MATCH,
+1244,,1111.86,,,,NO_MATCH,
+1245,,909.67,,,,NO_MATCH,
+1246,,464.86,,,,NO_MATCH,
+1247,,968.41,,,,NO_MATCH,
+1248,,367.06,,,,NO_MATCH,
+1249,,626.38,,,,NO_MATCH,
+125,143.77,11.3,-132.47,-92.14,161371.6,MAJOR,Major change - investigate
+1250,,468.4,,,,NO_MATCH,
+1251,,3741.77,,,,NO_MATCH,
+1252,,3687.24,,,,NO_MATCH,
+1253,,2523.78,,,,NO_MATCH,
+1254,,882.35,,,,NO_MATCH,
+1255,,1603.3,,,,NO_MATCH,
+1256,,3793.69,,,,NO_MATCH,
+1257,,1217.56,,,,NO_MATCH,
+1258,,2040.18,,,,NO_MATCH,
+1259,,1259.23,,,,NO_MATCH,
+1260,,841.08,,,,NO_MATCH,
+1261,,740.98,,,,NO_MATCH,
+1262,,638.85,,,,NO_MATCH,
+1263,,741.28,,,,NO_MATCH,
+1264,,576.53,,,,NO_MATCH,
+1265,,331.64,,,,NO_MATCH,
+1266,,696.1,,,,NO_MATCH,
+1267,,1100.76,,,,NO_MATCH,
+1268,,836.83,,,,NO_MATCH,
+1269,,467.99,,,,NO_MATCH,
+1270,,586.7,,,,NO_MATCH,
+1271,,1007.33,,,,NO_MATCH,
+1272,,730.81,,,,NO_MATCH,
+13,922.78,34.3,-888.48,-96.28,318273.4,MAJOR,Major change - investigate
+1301,,1001.49,,,,NO_MATCH,
+1302,,623.65,,,,NO_MATCH,
+1303,,2987.01,,,,NO_MATCH,
+1304,,2416.39,,,,NO_MATCH,
+1305,,3324.07,,,,NO_MATCH,
+1306,,2075.64,,,,NO_MATCH,
+1307,,2536.24,,,,NO_MATCH,
+1308,,1123.34,,,,NO_MATCH,
+1309,,2485.06,,,,NO_MATCH,
+131,537.29,3.94,-533.35,-99.27,160522.3,MAJOR,Major change - investigate
+1310,,1480.04,,,,NO_MATCH,
+1311,,1450.08,,,,NO_MATCH,
+1312,,2473.79,,,,NO_MATCH,
+1313,,408.21,,,,NO_MATCH,
+1314,,487.96,,,,NO_MATCH,
+1315,,2028.91,,,,NO_MATCH,
+1316,,442.68,,,,NO_MATCH,
+1317,,377.55,,,,NO_MATCH,
+1318,,2106.51,,,,NO_MATCH,
+1319,,2243.35,,,,NO_MATCH,
+132,414.98,70.92,-344.06,-82.91,155008.4,MAJOR,Major change - investigate
+1320,,999.65,,,,NO_MATCH,
+1321,,2009.15,,,,NO_MATCH,
+1322,,1329.71,,,,NO_MATCH,
+1323,,779.92,,,,NO_MATCH,
+1324,,569.52,,,,NO_MATCH,
+1325,,680.77,,,,NO_MATCH,
+1326,,441.82,,,,NO_MATCH,
+1327,,619.37,,,,NO_MATCH,
+1328,,502.29,,,,NO_MATCH,
+1329,,4751.49,,,,NO_MATCH,
+133,237.88,3.78,-234.11,-98.41,158345.7,MAJOR,Major change - investigate
+1330,,2227.75,,,,NO_MATCH,
+1331,,5624.87,,,,NO_MATCH,
+1332,,3104.94,,,,NO_MATCH,
+1333,,3342.58,,,,NO_MATCH,
+1334,,1064.88,,,,NO_MATCH,
+1335,,1728.05,,,,NO_MATCH,
+1336,,890.66,,,,NO_MATCH,
+1337,,501.81,,,,NO_MATCH,
+1338,,1096.54,,,,NO_MATCH,
+135,488.41,128.33,-360.09,-73.73,162689.6,MAJOR,Major change - investigate
+138,453.39,3.58,-449.81,-99.21,155056.2,MAJOR,Major change - investigate
+139,654.23,91.06,-563.17,-86.08,160730.6,MAJOR,Major change - investigate
+14,3367.83,15.6,-3352.23,-99.54,306092.1,MAJOR,Major change - investigate
+142,612.69,14.65,-598.04,-97.61,159786.0,MAJOR,Major change - investigate
+143,673.97,5.82,-668.15,-99.14,163927.3,MAJOR,Major change - investigate
+144,221.79,8.46,-213.33,-96.19,150818.6,MAJOR,Major change - investigate
+145,4784.46,41.05,-4743.41,-99.14,155448.4,MAJOR,Major change - investigate
+146,1154.23,26.26,-1127.98,-97.73,162112.0,MAJOR,Major change - investigate
+147,1577.64,33.09,-1544.54,-97.9,143976.3,MAJOR,Major change - investigate
+148,639.13,166.79,-472.34,-73.9,147846.6,MAJOR,Major change - investigate
+149,600.48,4.91,-595.56,-99.18,164521.9,MAJOR,Major change - investigate
+15,439.44,39.41,-400.03,-91.03,295985.5,MAJOR,Major change - investigate
+150,4073.69,15.36,-4058.33,-99.62,151874.4,MAJOR,Major change - investigate
+151,2081.05,35.9,-2045.15,-98.28,172476.4,MAJOR,Major change - investigate
+153,516.96,5.94,-511.02,-98.85,160632.6,MAJOR,Major change - investigate
+154,3520.63,17.4,-3503.24,-99.51,174789.3,MAJOR,Major change - investigate
+155,2023.21,30.47,-1992.74,-98.49,169586.0,MAJOR,Major change - investigate
+16,412.86,12.32,-400.54,-97.02,313584.7,MAJOR,Major change - investigate
+17,850.7,18.49,-832.21,-97.83,320126.2,MAJOR,Major change - investigate
+176,2488.11,113.84,-2374.27,-95.42,213508.1,MAJOR,Major change - investigate
+177,2907.97,278.54,-2629.43,-90.42,212856.8,MAJOR,Major change - investigate
+178,5058.96,206.75,-4852.21,-95.91,252865.1,MAJOR,Major change - investigate
+179,6591.99,4991.85,-1600.14,-24.27,242173.4,MAJOR,Major change - investigate
+18,1221.27,102.83,-1118.44,-91.58,319108.1,MAJOR,Major change - investigate
+180,2412.15,658.59,-1753.55,-72.7,225233.7,MAJOR,Major change - investigate
+181,21298.24,191.37,-21106.87,-99.1,226991.5,MAJOR,Major change - investigate
+182,15394.01,91.88,-15302.12,-99.4,263560.7,MAJOR,Major change - investigate
+183,3066.26,434.62,-2631.64,-85.83,205855.4,MAJOR,Major change - investigate
+184,3106.78,197.43,-2909.34,-93.65,194731.7,MAJOR,Major change - investigate
+185,1211.13,887.2,-323.93,-26.75,194423.3,MAJOR,Major change - investigate
+186,621.82,447.08,-174.74,-28.1,190523.1,MAJOR,Major change - investigate
+187,2566.83,229.0,-2337.83,-91.08,157984.0,MAJOR,Major change - investigate
+188,3477.33,305.0,-3172.34,-91.23,161771.6,MAJOR,Major change - investigate
+189,1299.98,161.3,-1138.67,-87.59,154905.1,MAJOR,Major change - investigate
+19,102.83,6.95,-95.88,-93.24,2308.1,MAJOR,Major change - investigate
+190,1157.91,183.4,-974.51,-84.16,264095.5,MAJOR,Major change - investigate
+191,859.53,320.23,-539.29,-62.74,274457.6,MAJOR,Major change - investigate
+192,665.77,644.88,-20.89,-3.14,253361.4,MAJOR,Major change - investigate
+193,987.82,255.51,-732.31,-74.13,265025.1,MAJOR,Major change - investigate
+194,1575.86,157.42,-1418.44,-90.01,256317.4,MAJOR,Major change - investigate
+195,2771.65,448.2,-2323.44,-83.83,257881.3,MAJOR,Major change - investigate
+196,1380.74,387.54,-993.2,-71.93,264451.0,MAJOR,Major change - investigate
+197,2464.82,234.36,-2230.45,-90.49,243125.5,MAJOR,Major change - investigate
+198,724.82,174.27,-550.55,-75.96,244918.1,MAJOR,Major change - investigate
+199,1798.93,332.43,-1466.5,-81.52,247944.1,MAJOR,Major change - investigate
+2,14902.93,201.44,-14701.48,-98.65,279011.0,MAJOR,Major change - investigate
+20,72.48,4.58,-67.9,-93.68,2200.1,MAJOR,Major change - investigate
+200,4281.28,101.85,-4179.43,-97.62,249368.2,MAJOR,Major change - investigate
+201,3053.11,24.59,-3028.52,-99.19,256718.8,MAJOR,Major change - investigate
+202,2125.88,160.89,-1964.99,-92.43,187589.1,MAJOR,Major change - investigate
+21,76.2,22.45,-53.75,-70.54,1785.0,MAJOR,Major change - investigate
+22,20.44,63.43,42.99,210.28,1978.6,MAJOR,Major change - investigate
+221,614.32,503.54,-110.78,-18.03,185717.1,MAJOR,Major change - investigate
+222,318.04,470.9,152.86,48.06,181973.9,MAJOR,Major change - investigate
+223,4500.31,2017.8,-2482.51,-55.16,209552.1,MAJOR,Major change - investigate
+224,3492.29,1810.33,-1681.97,-48.16,200242.8,MAJOR,Major change - investigate
+225,3567.32,511.59,-3055.73,-85.66,187344.0,MAJOR,Major change - investigate
+226,1362.75,448.84,-913.9,-67.06,184364.1,MAJOR,Major change - investigate
+227,827.85,627.3,-200.55,-24.23,181677.2,MAJOR,Major change - investigate
+228,1710.79,569.64,-1141.15,-66.7,172044.5,MAJOR,Major change - investigate
+229,174.26,742.97,568.72,326.37,186068.6,MAJOR,Major change - investigate
+23,16.27,12.37,-3.9,-23.99,637.8,MAJOR,Major change - investigate
+230,3228.69,247.73,-2980.97,-92.33,189540.8,MAJOR,Major change - investigate
+231,490.34,1615.16,1124.83,229.4,185285.9,MAJOR,Major change - investigate
+232,3103.03,985.27,-2117.76,-68.25,172829.1,MAJOR,Major change - investigate
+233,197.61,744.75,547.15,276.88,171145.0,MAJOR,Major change - investigate
+234,4248.35,2883.22,-1365.13,-32.13,243756.7,MAJOR,Major change - investigate
+235,1482.62,2664.37,1181.74,79.71,243289.2,MAJOR,Major change - investigate
+236,1601.51,2154.36,552.85,34.52,243549.8,MAJOR,Major change - investigate
+237,2280.67,1137.26,-1143.41,-50.13,207186.3,MAJOR,Major change - investigate
+238,2069.01,1071.15,-997.86,-48.23,186978.9,MAJOR,Major change - investigate
+239,7389.74,325.65,-7064.08,-95.59,200369.2,MAJOR,Major change - investigate
+24,7.18,49.98,42.79,595.57,1653.0,MAJOR,Major change - investigate
+240,2700.65,501.63,-2199.03,-81.43,228436.7,MAJOR,Major change - investigate
+241,1062.26,100.52,-961.74,-90.54,216666.5,MAJOR,Major change - investigate
+242,3716.02,578.9,-3137.12,-84.42,218689.9,MAJOR,Major change - investigate
+243,2566.62,569.28,-1997.34,-77.82,200897.5,MAJOR,Major change - investigate
+244,2461.61,1716.21,-745.4,-30.28,205449.6,MAJOR,Major change - investigate
+245,772.01,1757.58,985.56,127.66,195252.6,MAJOR,Major change - investigate
+246,690.33,1947.33,1257.0,182.09,193541.6,MAJOR,Major change - investigate
+247,3306.7,936.89,-2369.8,-71.67,204518.9,MAJOR,Major change - investigate
+248,3061.65,26436.83,23375.18,763.48,229072.7,MAJOR,Major change - investigate
+249,2010.85,2344.7,333.85,16.6,202249.6,MAJOR,Major change - investigate
+25,55.76,21.96,-33.8,-60.62,2619.1,MAJOR,Major change - investigate
+250,234.45,646.53,412.08,175.77,205028.0,MAJOR,Major change - investigate
+251,327.41,7148.09,6820.68,2083.23,217525.0,MAJOR,Major change - investigate
+252,2194.13,1336.23,-857.9,-39.1,197057.1,MAJOR,Major change - investigate
+253,1851.91,651.39,-1200.51,-64.83,173880.4,MAJOR,Major change - investigate
+254,460.11,1009.59,549.48,119.42,166123.4,MAJOR,Major change - investigate
+255,3541.54,1778.04,-1763.5,-49.79,215666.1,MAJOR,Major change - investigate
+256,3109.83,442.63,-2667.2,-85.77,198613.7,MAJOR,Major change - investigate
+257,2335.9,1749.39,-586.51,-25.11,204822.2,MAJOR,Major change - investigate
+258,4231.27,2635.55,-1595.72,-37.71,207962.0,MAJOR,Major change - investigate
+259,4634.89,1477.38,-3157.5,-68.12,203796.7,MAJOR,Major change - investigate
+26,10.72,4.14,-6.58,-61.38,910.6,MAJOR,Major change - investigate
+260,153.79,1360.78,1206.99,784.83,215569.0,MAJOR,Major change - investigate
+261,6154.78,2131.08,-4023.7,-65.38,286781.0,MAJOR,Major change - investigate
+262,2125.01,288.72,-1836.29,-86.41,287847.8,MAJOR,Major change - investigate
+263,1884.89,758.46,-1126.43,-59.76,267667.4,MAJOR,Major change - investigate
+264,894.57,686.87,-207.7,-23.22,283349.7,MAJOR,Major change - investigate
+265,1815.56,773.01,-1042.54,-57.42,217972.8,MAJOR,Major change - investigate
+27,5.48,3.57,-1.9,-34.77,987.1,MAJOR,Major change - investigate
+273,2905.28,248.69,-2656.59,-91.44,236745.6,MAJOR,Major change - investigate
+274,1148.19,148.14,-1000.05,-87.1,228426.1,MAJOR,Major change - investigate
+275,1849.47,156.05,-1693.42,-91.56,246537.3,MAJOR,Major change - investigate
+276,2336.88,152.75,-2184.13,-93.46,257945.1,MAJOR,Major change - investigate
+277,4011.71,426.81,-3584.89,-89.36,244452.6,MAJOR,Major change - investigate
+278,534.39,995.87,461.49,86.36,249812.0,MAJOR,Major change - investigate
+279,3384.97,347.87,-3037.1,-89.72,266566.5,MAJOR,Major change - investigate
+28,6284.74,13.01,-6271.73,-99.79,13544.3,MAJOR,Major change - investigate
+280,467.49,1442.14,974.65,208.48,273993.5,MAJOR,Major change - investigate
+281,468.49,407.63,-60.87,-12.99,270531.4,MAJOR,Major change - investigate
+282,243.74,326.58,82.84,33.99,269276.9,MAJOR,Major change - investigate
+283,1184.34,409.42,-774.92,-65.43,219096.2,MAJOR,Major change - investigate
+284,317.1,436.22,119.13,37.57,211992.2,MAJOR,Major change - investigate
+285,1114.61,198.95,-915.66,-82.15,216727.0,MAJOR,Major change - investigate
+286,1262.77,437.91,-824.86,-65.32,216274.4,MAJOR,Major change - investigate
+287,3608.7,235.0,-3373.7,-93.49,275675.7,MAJOR,Major change - investigate
+288,1278.56,468.02,-810.53,-63.39,282663.0,MAJOR,Major change - investigate
+289,3426.64,450.53,-2976.11,-86.85,279602.6,MAJOR,Major change - investigate
+290,1144.95,199.94,-945.01,-82.54,271959.3,MAJOR,Major change - investigate
+291,2771.87,333.1,-2438.77,-87.98,271878.2,MAJOR,Major change - investigate
+292,1883.03,751.06,-1131.97,-60.11,281324.6,MAJOR,Major change - investigate
+293,61.25,441.0,379.75,619.95,289655.9,MAJOR,Major change - investigate
+294,1451.3,526.21,-925.09,-63.74,251170.5,MAJOR,Major change - investigate
+295,485.39,426.63,-58.76,-12.11,251090.0,MAJOR,Major change - investigate
+296,2272.77,170.58,-2102.19,-92.49,258374.7,MAJOR,Major change - investigate
+297,2521.18,196.29,-2324.89,-92.21,260994.3,MAJOR,Major change - investigate
+298,2232.75,308.26,-1924.49,-86.19,284968.3,MAJOR,Major change - investigate
+299,3303.56,488.14,-2815.42,-85.22,247059.1,MAJOR,Major change - investigate
+30,15.05,22.05,7.01,46.55,1514.1,MAJOR,Major change - investigate
+300,1063.69,485.28,-578.41,-54.38,255004.2,MAJOR,Major change - investigate
+301,154.21,149.23,-4.98,-3.23,259203.8,MAJOR,Major change - investigate
+302,1250.12,870.67,-379.46,-30.35,259973.6,MAJOR,Major change - investigate
+303,935.18,189.09,-746.09,-79.78,247017.8,MAJOR,Major change - investigate
+304,1795.21,507.03,-1288.18,-71.76,243016.9,MAJOR,Major change - investigate
+305,1686.63,467.01,-1219.62,-72.31,233193.4,MAJOR,Major change - investigate
+306,1603.76,665.85,-937.92,-58.48,229344.0,MAJOR,Major change - investigate
+307,731.88,793.82,61.94,8.46,245670.6,MAJOR,Major change - investigate
+308,753.86,708.66,-45.2,-6.0,241408.6,MAJOR,Major change - investigate
+309,1021.98,1126.46,104.48,10.22,255487.5,MAJOR,Major change - investigate
+31,39.41,72.48,33.08,83.94,3818.5,MAJOR,Major change - investigate
+310,1716.37,381.67,-1334.7,-77.76,251246.5,MAJOR,Major change - investigate
+311,2977.69,544.4,-2433.29,-81.72,261141.4,MAJOR,Major change - investigate
+312,1275.53,999.93,-275.6,-21.61,227140.3,MAJOR,Major change - investigate
+313,1468.54,2101.66,633.11,43.11,238802.4,MAJOR,Major change - investigate
+314,3252.3,1231.85,-2020.45,-62.12,237015.5,MAJOR,Major change - investigate
+315,1392.16,276.36,-1115.8,-80.15,248041.9,MAJOR,Major change - investigate
+316,1267.78,284.6,-983.18,-77.55,255911.1,MAJOR,Major change - investigate
+317,361.33,239.73,-121.6,-33.65,235532.9,MAJOR,Major change - investigate
+318,2640.51,155.3,-2485.2,-94.12,262883.8,MAJOR,Major change - investigate
+319,309.3,530.9,221.6,71.65,268907.7,MAJOR,Major change - investigate
+32,186.86,1.19,-185.67,-99.36,3898.6,MAJOR,Major change - investigate
+320,406.78,879.53,472.75,116.22,274874.7,MAJOR,Major change - investigate
+321,393.79,1104.77,710.98,180.55,256730.3,MAJOR,Major change - investigate
+322,304.86,775.05,470.19,154.23,257275.8,MAJOR,Major change - investigate
+323,925.03,494.2,-430.83,-46.57,245728.5,MAJOR,Major change - investigate
+324,1057.56,878.47,-179.09,-16.93,253280.9,MAJOR,Major change - investigate
+325,2256.09,927.15,-1328.94,-58.9,260530.3,MAJOR,Major change - investigate
+326,2073.36,570.67,-1502.69,-72.48,257381.8,MAJOR,Major change - investigate
+327,708.74,613.57,-95.17,-13.43,253455.5,MAJOR,Major change - investigate
+328,1415.12,443.18,-971.94,-68.68,266289.0,MAJOR,Major change - investigate
+329,374.43,827.61,453.17,121.03,277880.2,MAJOR,Major change - investigate
+33,14.37,42.62,28.25,196.54,1881.0,MAJOR,Major change - investigate
+330,151.71,1174.07,1022.36,673.88,278156.8,MAJOR,Major change - investigate
+331,1196.41,560.38,-636.03,-53.16,275899.6,MAJOR,Major change - investigate
+332,75.88,327.68,251.8,331.82,281701.4,MAJOR,Major change - investigate
+333,164.76,279.33,114.58,69.54,283241.7,MAJOR,Major change - investigate
+334,87.01,280.83,193.82,222.77,281574.2,MAJOR,Major change - investigate
+335,256.0,382.45,126.45,49.39,285886.7,MAJOR,Major change - investigate
+336,239.02,1695.89,1456.86,609.51,263791.9,MAJOR,Major change - investigate
+337,464.71,1205.03,740.32,159.31,228293.4,MAJOR,Major change - investigate
+338,1147.48,982.14,-165.34,-14.41,213120.3,MAJOR,Major change - investigate
+339,955.21,1598.45,643.24,67.34,222735.5,MAJOR,Major change - investigate
+34,103.5,15.05,-88.45,-85.46,7010.4,MAJOR,Major change - investigate
+340,1702.2,3258.55,1556.35,91.43,217256.2,MAJOR,Major change - investigate
+341,325.43,2892.43,2567.0,788.79,207175.9,MAJOR,Major change - investigate
+342,250.38,1606.74,1356.35,541.71,201237.5,MAJOR,Major change - investigate
+343,265.18,1785.86,1520.68,573.46,208796.5,MAJOR,Major change - investigate
+344,564.94,1182.87,617.93,109.38,206491.5,MAJOR,Major change - investigate
+345,441.99,2532.28,2090.29,472.93,193512.8,MAJOR,Major change - investigate
+346,1396.5,668.04,-728.46,-52.16,272360.2,MAJOR,Major change - investigate
+347,1032.48,7965.09,6932.61,671.45,275771.3,MAJOR,Major change - investigate
+349,979.88,5680.36,4700.47,479.7,249102.7,MAJOR,Major change - investigate
+35,24.21,18.01,-6.2,-25.62,3981.6,MAJOR,Major change - investigate
+350,739.81,3580.58,2840.77,383.99,222979.1,MAJOR,Major change - investigate
+351,859.2,6916.55,6057.36,705.0,196768.8,MAJOR,Major change - investigate
+352,637.89,5586.94,4949.05,775.85,213872.8,MAJOR,Major change - investigate
+353,862.91,5454.39,4591.48,532.09,207353.6,MAJOR,Major change - investigate
+354,420.19,627.3,207.11,49.29,194685.3,MAJOR,Major change - investigate
+355,573.9,3216.66,2642.76,460.49,82788.9,MAJOR,Major change - investigate
+356,1029.56,9259.17,8229.61,799.33,88869.3,MAJOR,Major change - investigate
+357,629.39,510.87,-118.52,-18.83,85676.7,MAJOR,Major change - investigate
+358,585.25,1657.72,1072.47,183.25,60831.5,MAJOR,Major change - investigate
+359,729.5,1417.28,687.78,94.28,88357.6,MAJOR,Major change - investigate
+36,467.79,11.73,-456.06,-97.49,10187.2,MAJOR,Major change - investigate
+360,1018.96,2501.76,1482.8,145.52,71086.8,MAJOR,Major change - investigate
+361,667.16,2488.83,1821.66,273.05,88159.8,MAJOR,Major change - investigate
+362,544.6,975.58,430.98,79.14,88914.4,MAJOR,Major change - investigate
+363,473.42,8923.92,8450.5,1784.99,90851.1,MAJOR,Major change - investigate
+364,265.11,134.64,-130.47,-49.21,92636.6,MAJOR,Major change - investigate
+365,2210.17,1451.08,-759.09,-34.35,121241.1,MAJOR,Major change - investigate
+366,129.74,3508.53,3378.78,2604.21,99351.0,MAJOR,Major change - investigate
+367,4699.53,2115.27,-2584.26,-54.99,109818.6,MAJOR,Major change - investigate
+368,200.34,419.87,219.54,109.59,92584.8,MAJOR,Major change - investigate
+369,23.77,2280.07,2256.3,9491.61,94600.0,MAJOR,Major change - investigate
+37,38.21,20.88,-17.33,-45.36,8381.1,MAJOR,Major change - investigate
+370,1328.02,4933.42,3605.4,271.49,101817.6,MAJOR,Major change - investigate
+371,686.68,1030.53,343.85,50.07,133347.4,MAJOR,Major change - investigate
+372,300.47,1057.99,757.52,252.11,114338.6,MAJOR,Major change - investigate
+373,609.52,355.22,-254.3,-41.72,128537.0,MAJOR,Major change - investigate
+374,1644.24,1445.47,-198.76,-12.09,123117.0,MAJOR,Major change - investigate
+375,978.77,889.03,-89.75,-9.17,124598.1,MAJOR,Major change - investigate
+376,2543.09,984.9,-1558.19,-61.27,120012.3,MAJOR,Major change - investigate
+377,435.35,2614.67,2179.32,500.6,170567.8,MAJOR,Major change - investigate
+378,1826.62,1480.86,-345.76,-18.93,150782.1,MAJOR,Major change - investigate
+379,119.22,488.07,368.86,309.4,153060.3,MAJOR,Major change - investigate
+38,305.64,35.85,-269.79,-88.27,13332.3,MAJOR,Major change - investigate
+380,2974.21,605.12,-2369.1,-79.65,141404.4,MAJOR,Major change - investigate
+381,886.72,538.86,-347.87,-39.23,153994.8,MAJOR,Major change - investigate
+382,2632.58,336.33,-2296.25,-87.22,150221.0,MAJOR,Major change - investigate
+383,1012.24,942.87,-69.37,-6.85,115718.6,MAJOR,Major change - investigate
+384,1417.81,1122.45,-295.36,-20.83,125357.1,MAJOR,Major change - investigate
+385,508.28,306.65,-201.63,-39.67,138628.6,MAJOR,Major change - investigate
+386,534.39,825.25,290.86,54.43,134575.0,MAJOR,Major change - investigate
+387,67.65,1933.25,1865.6,2757.76,147487.8,MAJOR,Major change - investigate
+388,387.18,1068.53,681.36,175.98,153106.4,MAJOR,Major change - investigate
+389,1092.08,1002.12,-89.95,-8.24,128175.0,MAJOR,Major change - investigate
+39,160.97,14.83,-146.15,-90.79,15425.8,MAJOR,Major change - investigate
+390,913.38,1793.77,880.39,96.39,125105.3,MAJOR,Major change - investigate
+391,507.8,137.73,-370.08,-72.88,120376.7,MAJOR,Major change - investigate
+392,1233.29,843.39,-389.9,-31.61,107328.8,MAJOR,Major change - investigate
+393,1450.68,1279.41,-171.27,-11.81,99200.2,MAJOR,Major change - investigate
+394,243.29,840.54,597.25,245.49,88878.0,MAJOR,Major change - investigate
+395,888.04,59.07,-828.96,-93.35,101705.3,MAJOR,Major change - investigate
+396,993.33,10151.52,9158.19,921.97,83361.7,MAJOR,Major change - investigate
+397,1431.26,1669.27,238.01,16.63,98874.7,MAJOR,Major change - investigate
+398,625.03,1638.23,1013.2,162.1,93598.2,MAJOR,Major change - investigate
+399,1981.74,1456.2,-525.55,-26.52,94258.5,MAJOR,Major change - investigate
+40,643.6,6.9,-636.7,-98.93,17301.0,MAJOR,Major change - investigate
+400,754.64,1091.2,336.55,44.6,78551.1,MAJOR,Major change - investigate
+401,482.27,1728.71,1246.44,258.45,77712.2,MAJOR,Major change - investigate
+402,1786.64,1109.08,-677.56,-37.92,90728.6,MAJOR,Major change - investigate
+403,94.55,1056.43,961.88,1017.33,88952.3,MAJOR,Major change - investigate
+405,1494.9,3685.32,2190.42,146.53,119991.0,MAJOR,Major change - investigate
+406,1711.98,2029.69,317.71,18.56,176634.6,MAJOR,Major change - investigate
+407,1892.12,1170.92,-721.2,-38.12,162971.2,MAJOR,Major change - investigate
+408,1854.35,2554.15,699.8,37.74,193926.3,MAJOR,Major change - investigate
+409,649.73,694.28,44.55,6.86,172397.1,MAJOR,Major change - investigate
+41,1476.05,12.21,-1463.83,-99.17,20653.5,MAJOR,Major change - investigate
+410,680.77,864.14,183.37,26.94,177094.4,MAJOR,Major change - investigate
+411,908.26,1600.57,692.32,76.22,141047.9,MAJOR,Major change - investigate
+412,196.76,1851.8,1655.04,841.16,153920.2,MAJOR,Major change - investigate
+413,938.49,738.61,-199.88,-21.3,165978.1,MAJOR,Major change - investigate
+414,2095.75,3068.28,972.53,46.4,176587.2,MAJOR,Major change - investigate
+415,1323.49,837.42,-486.07,-36.73,164247.7,MAJOR,Major change - investigate
+416,645.16,1945.6,1300.44,201.57,148061.1,MAJOR,Major change - investigate
+417,1200.94,5477.91,4276.97,356.13,163964.9,MAJOR,Major change - investigate
+418,270.43,2898.18,2627.75,971.7,158506.3,MAJOR,Major change - investigate
+419,470.4,585.28,114.89,24.42,148413.9,MAJOR,Major change - investigate
+42,2190.38,24.78,-2165.6,-98.87,21579.2,MAJOR,Major change - investigate
+420,316.01,615.68,299.67,94.83,142532.6,MAJOR,Major change - investigate
+421,383.74,668.58,284.84,74.23,143602.4,MAJOR,Major change - investigate
+422,195.93,1023.44,827.51,422.36,153852.1,MAJOR,Major change - investigate
+423,87.44,4152.57,4065.13,4649.05,156361.2,MAJOR,Major change - investigate
+424,114.01,3588.45,3474.44,3047.44,157053.2,MAJOR,Major change - investigate
+425,1744.97,2035.84,290.87,16.67,152373.1,MAJOR,Major change - investigate
+426,2382.72,3132.95,750.23,31.49,161732.1,MAJOR,Major change - investigate
+427,1946.26,918.06,-1028.2,-52.83,121826.1,MAJOR,Major change - investigate
+428,1518.56,922.8,-595.76,-39.23,129109.9,MAJOR,Major change - investigate
+429,372.12,334.07,-38.05,-10.23,151491.1,MAJOR,Major change - investigate
+43,7149.91,14.61,-7135.3,-99.8,24031.9,MAJOR,Major change - investigate
+430,258.81,3031.15,2772.34,1071.2,138287.0,MAJOR,Major change - investigate
+431,305.91,308.99,3.08,1.01,131145.9,MAJOR,Major change - investigate
+432,301.0,675.15,374.15,124.3,103796.6,MAJOR,Major change - investigate
+433,81.37,1022.76,941.4,1156.99,108818.9,MAJOR,Major change - investigate
+434,323.84,733.28,409.44,126.43,120774.7,MAJOR,Major change - investigate
+435,274.02,2035.16,1761.14,642.7,134834.9,MAJOR,Major change - investigate
+436,532.47,598.36,65.89,12.37,112783.2,MAJOR,Major change - investigate
+437,1399.04,274.54,-1124.5,-80.38,121883.7,MAJOR,Major change - investigate
+438,88.33,308.14,219.81,248.86,105188.3,MAJOR,Major change - investigate
+439,213.72,9436.14,9222.43,4315.26,129502.3,MAJOR,Major change - investigate
+44,519.41,41.93,-477.47,-91.93,10835.3,MAJOR,Major change - investigate
+440,127.19,836.48,709.29,557.65,130069.7,MAJOR,Major change - investigate
+441,184.91,922.08,737.18,398.68,111955.7,MAJOR,Major change - investigate
+442,844.55,1113.03,268.47,31.79,113914.0,MAJOR,Major change - investigate
+443,2382.96,1176.17,-1206.79,-50.64,114901.0,MAJOR,Major change - investigate
+444,85.62,872.43,786.81,918.92,110367.9,MAJOR,Major change - investigate
+445,117.12,177.03,59.91,51.15,124379.2,MAJOR,Major change - investigate
+446,395.93,432.35,36.42,9.2,127610.6,MAJOR,Major change - investigate
+447,79.9,607.11,527.21,659.84,95796.1,MAJOR,Major change - investigate
+448,394.69,1746.92,1352.23,342.61,103247.1,MAJOR,Major change - investigate
+449,137.78,145.38,7.6,5.52,103419.3,MAJOR,Major change - investigate
+45,26451.78,11.0,-26440.78,-99.96,44907.2,MAJOR,Major change - investigate
+450,200.61,450.32,249.71,124.48,108725.3,MAJOR,Major change - investigate
+451,91.17,1030.16,938.99,1029.98,105617.6,MAJOR,Major change - investigate
+452,252.79,2037.62,1784.83,706.05,110913.3,MAJOR,Major change - investigate
+453,101.09,1930.32,1829.23,1809.52,110556.6,MAJOR,Major change - investigate
+454,66.61,882.32,815.71,1224.55,52657.5,MAJOR,Major change - investigate
+455,182.12,564.81,382.7,210.14,56571.7,MAJOR,Major change - investigate
+456,231.64,572.67,341.04,147.23,54896.8,MAJOR,Major change - investigate
+457,11.46,1851.84,1840.38,16056.13,56565.2,MAJOR,Major change - investigate
+458,346.78,867.77,520.99,150.24,64085.6,MAJOR,Major change - investigate
+459,384.99,2126.26,1741.28,452.29,39465.8,MAJOR,Major change - investigate
+46,936.88,18.59,-918.29,-98.02,42481.0,MAJOR,Major change - investigate
+460,141.26,1826.11,1684.86,1192.75,36945.7,MAJOR,Major change - investigate
+461,52.78,1634.27,1581.49,2996.55,57311.3,MAJOR,Major change - investigate
+462,56.4,824.98,768.58,1362.63,42144.0,MAJOR,Major change - investigate
+463,389.96,390.56,0.6,0.15,44093.2,MAJOR,Major change - investigate
+464,21.33,1581.15,1559.82,7312.8,44804.1,MAJOR,Major change - investigate
+465,104.94,2873.15,2768.21,2637.97,55099.3,MAJOR,Major change - investigate
+466,70.35,1819.43,1749.08,2486.25,60161.5,MAJOR,Major change - investigate
+467,481.89,2550.22,2068.33,429.21,50797.7,MAJOR,Major change - investigate
+468,132.36,2518.71,2386.36,1802.98,56264.1,MAJOR,Major change - investigate
+469,408.79,450.74,41.95,10.26,51159.8,MAJOR,Major change - investigate
+47,1940.61,15.78,-1924.83,-99.19,51053.8,MAJOR,Major change - investigate
+470,163.25,2376.93,2213.68,1356.0,46423.3,MAJOR,Major change - investigate
+471,297.79,913.66,615.87,206.82,37277.7,MAJOR,Major change - investigate
+472,399.12,1572.38,1173.26,293.96,36751.0,MAJOR,Major change - investigate
+473,490.26,661.42,171.15,34.91,30124.2,MAJOR,Major change - investigate
+474,130.01,314.33,184.32,141.77,31463.4,MAJOR,Major change - investigate
+475,716.64,474.96,-241.69,-33.72,34085.1,MAJOR,Major change - investigate
+476,140.12,1120.47,980.35,699.67,24214.2,MAJOR,Major change - investigate
+477,173.16,706.32,533.16,307.9,30754.2,MAJOR,Major change - investigate
+48,2620.56,17.83,-2602.73,-99.32,63778.5,MAJOR,Major change - investigate
+49,1337.37,66.24,-1271.13,-95.05,32928.2,MAJOR,Major change - investigate
+5,1352.65,195.54,-1157.11,-85.54,305193.3,MAJOR,Major change - investigate
+501,724.0,121.02,-602.98,-83.29,146554.1,MAJOR,Major change - investigate
+502,439.98,133.67,-306.31,-69.62,140298.2,MAJOR,Major change - investigate
+503,179.38,59.35,-120.03,-66.91,137703.8,MAJOR,Major change - investigate
+504,385.6,215.9,-169.7,-44.01,141882.8,MAJOR,Major change - investigate
+505,159.55,116.79,-42.76,-26.8,142925.1,MAJOR,Major change - investigate
+506,1100.27,115.19,-985.08,-89.53,198527.7,MAJOR,Major change - investigate
+507,434.61,135.55,-299.06,-68.81,205216.9,MAJOR,Major change - investigate
+508,913.98,146.95,-767.03,-83.92,207899.0,MAJOR,Major change - investigate
+509,972.49,181.93,-790.56,-81.29,210323.8,MAJOR,Major change - investigate
+51,2838.16,2.65,-2835.5,-99.91,74431.0,MAJOR,Major change - investigate
+510,468.4,516.2,47.8,10.21,210564.9,MAJOR,Major change - investigate
+511,629.06,1040.7,411.64,65.44,206587.7,MAJOR,Major change - investigate
+512,457.31,231.86,-225.45,-49.3,212760.2,MAJOR,Major change - investigate
+513,2537.24,201.42,-2335.82,-92.06,215511.4,MAJOR,Major change - investigate
+514,2919.93,92.07,-2827.87,-96.85,198669.4,MAJOR,Major change - investigate
+515,861.48,242.96,-618.52,-71.8,214610.0,MAJOR,Major change - investigate
+516,740.25,29.49,-710.76,-96.02,209915.1,MAJOR,Major change - investigate
+517,1008.25,60.25,-947.99,-94.02,203772.9,MAJOR,Major change - investigate
+518,901.87,107.01,-794.86,-88.14,198738.1,MAJOR,Major change - investigate
+519,1829.52,1802.18,-27.34,-1.49,202230.4,MAJOR,Major change - investigate
+52,689.5,62.53,-626.97,-90.93,201416.7,MAJOR,Major change - investigate
+520,323.67,480.16,156.48,48.35,226808.8,MAJOR,Major change - investigate
+521,757.04,450.56,-306.48,-40.48,222642.8,MAJOR,Major change - investigate
+522,705.77,628.21,-77.55,-10.99,220503.7,MAJOR,Major change - investigate
+523,273.05,334.26,61.22,22.42,226693.1,MAJOR,Major change - investigate
+524,216.08,431.69,215.61,99.78,217640.2,MAJOR,Major change - investigate
+525,1085.06,376.35,-708.71,-65.32,229404.5,MAJOR,Major change - investigate
+526,2859.64,1840.88,-1018.75,-35.63,209177.9,MAJOR,Major change - investigate
+527,2351.17,2038.27,-312.91,-13.31,219821.2,MAJOR,Major change - investigate
+528,781.0,573.56,-207.44,-26.56,211663.2,MAJOR,Major change - investigate
+529,2270.55,5783.98,3513.43,154.74,185361.0,MAJOR,Major change - investigate
+530,837.76,246.05,-591.71,-70.63,243077.4,MAJOR,Major change - investigate
+531,859.9,657.45,-202.45,-23.54,246511.1,MAJOR,Major change - investigate
+532,509.49,736.44,226.95,44.54,231949.9,MAJOR,Major change - investigate
+533,1019.41,5168.99,4149.58,407.06,244786.6,MAJOR,Major change - investigate
+534,533.55,655.17,121.62,22.8,239246.7,MAJOR,Major change - investigate
+535,836.83,216.91,-619.93,-74.08,203318.3,MAJOR,Major change - investigate
+536,1438.23,1498.5,60.27,4.19,194217.2,MAJOR,Major change - investigate
+537,1554.57,418.66,-1135.91,-73.07,189308.1,MAJOR,Major change - investigate
+538,873.65,2728.85,1855.2,212.35,187252.3,MAJOR,Major change - investigate
+539,581.47,2739.73,2158.27,371.18,184856.9,MAJOR,Major change - investigate
+54,740.96,24.28,-716.68,-96.72,191789.7,MAJOR,Major change - investigate
+540,468.0,804.13,336.13,71.82,178618.5,MAJOR,Major change - investigate
+541,788.02,3588.17,2800.15,355.34,178207.4,MAJOR,Major change - investigate
+542,755.2,516.56,-238.64,-31.6,191259.2,MAJOR,Major change - investigate
+543,469.89,1765.23,1295.35,275.67,193705.3,MAJOR,Major change - investigate
+544,374.76,1375.12,1000.36,266.93,201541.4,MAJOR,Major change - investigate
+545,613.01,1591.0,978.0,159.54,178406.4,MAJOR,Major change - investigate
+546,1001.48,2544.48,1543.0,154.07,168340.5,MAJOR,Major change - investigate
+547,446.0,3268.13,2822.13,632.77,54310.0,MAJOR,Major change - investigate
+548,5151.54,3669.52,-1482.02,-28.77,37951.2,MAJOR,Major change - investigate
+549,573.14,259.6,-313.53,-54.7,33042.4,MAJOR,Major change - investigate
+55,377.55,103.5,-274.05,-72.59,195708.6,MAJOR,Major change - investigate
+550,370.69,594.56,223.87,60.39,21150.1,MAJOR,Major change - investigate
+551,1030.35,546.03,-484.32,-47.01,10903.5,MAJOR,Major change - investigate
+552,450.63,138.28,-312.34,-69.31,27701.7,MAJOR,Major change - investigate
+553,218.6,110.98,-107.63,-49.23,16576.1,MAJOR,Major change - investigate
+554,2718.4,1025.36,-1693.04,-62.28,21581.9,MAJOR,Major change - investigate
+555,418.66,96.42,-322.23,-76.97,64987.5,MAJOR,Major change - investigate
+556,1498.5,1077.37,-421.13,-28.1,60876.8,MAJOR,Major change - investigate
+557,655.17,901.98,246.81,37.67,54516.7,MAJOR,Major change - investigate
+558,3591.53,100.84,-3490.69,-97.19,69843.2,MAJOR,Major change - investigate
+559,516.56,515.58,-0.98,-0.19,59766.0,MAJOR,Major change - investigate
+56,779.26,467.79,-311.47,-39.97,196543.0,MAJOR,Major change - investigate
+560,280.01,716.36,436.35,155.83,5848.9,MAJOR,Major change - investigate
+561,548.82,163.47,-385.35,-70.21,13878.1,MAJOR,Major change - investigate
+562,617.17,551.28,-65.9,-10.68,12588.9,MAJOR,Major change - investigate
+563,4381.85,205.33,-4176.52,-95.31,20255.0,MAJOR,Major change - investigate
+564,106.33,1172.08,1065.75,1002.3,48775.2,MAJOR,Major change - investigate
+565,915.2,766.34,-148.86,-16.27,16867.4,MAJOR,Major change - investigate
+566,715.59,125.45,-590.14,-82.47,22196.0,MAJOR,Major change - investigate
+567,166.02,216.7,50.68,30.53,20409.6,MAJOR,Major change - investigate
+568,625.55,384.13,-241.42,-38.59,47126.6,MAJOR,Major change - investigate
+569,886.52,231.88,-654.64,-73.84,19483.7,MAJOR,Major change - investigate
+57,487.96,6384.15,5896.18,1208.33,186056.3,MAJOR,Major change - investigate
+570,109.28,115.18,5.9,5.4,24836.9,MAJOR,Major change - investigate
+571,223.11,184.71,-38.4,-17.21,23837.8,MAJOR,Major change - investigate
+572,1329.65,543.34,-786.3,-59.14,29437.6,MAJOR,Major change - investigate
+573,96.44,98.01,1.57,1.63,26664.6,MAJOR,Major change - investigate
+574,5064.58,305.46,-4759.12,-93.97,29054.2,MAJOR,Major change - investigate
+575,771.97,239.95,-532.02,-68.92,46554.4,MAJOR,Major change - investigate
+576,2138.77,407.98,-1730.79,-80.92,54676.5,MAJOR,Major change - investigate
+577,475.72,130.46,-345.26,-72.58,46761.3,MAJOR,Major change - investigate
+578,962.34,51.16,-911.18,-94.68,38662.4,MAJOR,Major change - investigate
+579,1343.26,126.01,-1217.24,-90.62,39245.3,MAJOR,Major change - investigate
+58,2028.91,14.77,-2014.14,-99.27,195738.5,MAJOR,Major change - investigate
+580,3953.54,51.34,-3902.2,-98.7,45348.9,MAJOR,Major change - investigate
+581,2593.45,393.48,-2199.97,-84.83,27616.5,MAJOR,Major change - investigate
+582,2357.83,176.45,-2181.38,-92.52,40018.0,MAJOR,Major change - investigate
+583,222.3,130.72,-91.57,-41.19,35318.6,MAJOR,Major change - investigate
+584,259.12,86.36,-172.76,-66.67,29342.6,MAJOR,Major change - investigate
+585,4296.18,365.2,-3930.98,-91.5,31418.4,MAJOR,Major change - investigate
+586,948.37,140.86,-807.5,-85.15,27929.2,MAJOR,Major change - investigate
+587,707.49,147.76,-559.72,-79.11,34276.4,MAJOR,Major change - investigate
+588,963.42,137.33,-826.09,-85.75,34332.4,MAJOR,Major change - investigate
+589,355.22,97.02,-258.2,-72.69,61815.6,MAJOR,Major change - investigate
+59,570.19,85.48,-484.72,-85.01,208179.1,MAJOR,Major change - investigate
+590,1097.76,308.43,-789.33,-71.9,57864.4,MAJOR,Major change - investigate
+591,309.83,63.7,-246.13,-79.44,48503.1,MAJOR,Major change - investigate
+592,1585.62,84.29,-1501.33,-94.68,38588.0,MAJOR,Major change - investigate
+593,512.94,180.65,-332.29,-64.78,35997.2,MAJOR,Major change - investigate
+594,1647.46,59.41,-1588.05,-96.39,104934.3,MAJOR,Major change - investigate
+595,375.41,269.0,-106.41,-28.35,21908.1,MAJOR,Major change - investigate
+596,179.18,163.0,-16.18,-9.03,20119.2,MAJOR,Major change - investigate
+597,5661.28,175.65,-5485.63,-96.9,15558.0,MAJOR,Major change - investigate
+598,86.36,208.24,121.88,141.13,20841.0,MAJOR,Major change - investigate
+599,107.91,583.32,475.41,440.55,12893.9,MAJOR,Major change - investigate
+60,1338.26,21.73,-1316.54,-98.38,203523.1,MAJOR,Major change - investigate
+600,142.11,250.97,108.86,76.6,20195.3,MAJOR,Major change - investigate
+601,160.37,530.76,370.39,230.96,34761.1,MAJOR,Major change - investigate
+602,127.39,227.72,100.34,78.77,30131.8,MAJOR,Major change - investigate
+603,98.07,412.15,314.07,320.25,13600.8,MAJOR,Major change - investigate
+604,297.76,943.04,645.28,216.71,18643.5,MAJOR,Major change - investigate
+605,258.94,1246.88,987.94,381.53,24436.2,MAJOR,Major change - investigate
+606,577.59,588.66,11.07,1.92,6854.3,MAJOR,Major change - investigate
+607,129.99,95.9,-34.09,-26.23,189.9,MAJOR,Major change - investigate
+608,1852.75,265.79,-1586.95,-85.65,25143.5,MAJOR,Major change - investigate
+609,2543.04,618.17,-1924.87,-75.69,29015.3,MAJOR,Major change - investigate
+61,2000.59,103.26,-1897.34,-94.84,203374.7,MAJOR,Major change - investigate
+610,98.89,1191.54,1092.65,1104.88,27400.0,MAJOR,Major change - investigate
+611,189.0,5640.37,5451.38,2884.35,22130.0,MAJOR,Major change - investigate
+612,242.05,348.88,106.83,44.14,38517.1,MAJOR,Major change - investigate
+613,519.25,734.32,215.07,41.42,28222.5,MAJOR,Major change - investigate
+614,326.45,613.39,286.94,87.9,28786.4,MAJOR,Major change - investigate
+615,188.85,875.89,687.04,363.8,22688.5,MAJOR,Major change - investigate
+616,163.0,187.35,24.34,14.93,29537.0,MAJOR,Major change - investigate
+617,218.29,80.19,-138.1,-63.26,31785.7,MAJOR,Major change - investigate
+618,173.26,134.3,-38.97,-22.49,33276.3,MAJOR,Major change - investigate
+619,179.19,96.24,-82.95,-46.29,32281.2,MAJOR,Major change - investigate
+62,3560.86,19.81,-3541.05,-99.44,181038.6,MAJOR,Major change - investigate
+620,122.75,960.2,837.45,682.21,27819.6,MAJOR,Major change - investigate
+621,243.21,333.44,90.24,37.1,25433.4,MAJOR,Major change - investigate
+622,378.27,232.08,-146.2,-38.65,6587.5,MAJOR,Major change - investigate
+623,941.02,747.53,-193.49,-20.56,3988.1,MAJOR,Major change - investigate
+624,927.21,387.16,-540.06,-58.25,6455.3,MAJOR,Major change - investigate
+625,1202.71,374.76,-827.96,-68.84,20050.6,MAJOR,Major change - investigate
+626,624.96,930.78,305.83,48.94,15221.1,MAJOR,Major change - investigate
+627,414.62,462.38,47.76,11.52,13152.1,MAJOR,Major change - investigate
+628,1254.07,2427.87,1173.8,93.6,23719.3,MAJOR,Major change - investigate
+629,747.53,901.01,153.48,20.53,11913.9,MAJOR,Major change - investigate
+63,3069.78,12.28,-3057.5,-99.6,163470.7,MAJOR,Major change - investigate
+630,613.39,125.23,-488.16,-79.58,21603.4,MAJOR,Major change - investigate
+631,875.89,123.1,-752.79,-85.95,30482.0,MAJOR,Major change - investigate
+632,950.65,77.57,-873.08,-91.84,34881.4,MAJOR,Major change - investigate
+64,3389.32,66.62,-3322.7,-98.03,167428.7,MAJOR,Major change - investigate
+651,533.82,1867.2,1333.38,249.78,12198.7,MAJOR,Major change - investigate
+652,625.0,2602.22,1977.23,316.36,11894.2,MAJOR,Major change - investigate
+653,204.57,5277.39,5072.82,2479.81,44079.1,MAJOR,Major change - investigate
+654,486.62,2215.92,1729.3,355.37,49280.9,MAJOR,Major change - investigate
+655,383.53,1438.38,1054.85,275.04,45011.8,MAJOR,Major change - investigate
+656,502.23,775.97,273.74,54.51,43906.8,MAJOR,Major change - investigate
+657,114.66,2954.7,2840.04,2476.9,49945.5,MAJOR,Major change - investigate
+658,126.02,1247.96,1121.94,890.32,39062.9,MAJOR,Major change - investigate
+659,52.65,2441.08,2388.43,4536.19,31829.2,MAJOR,Major change - investigate
+660,286.07,5082.23,4796.16,1676.56,56222.1,MAJOR,Major change - investigate
+661,399.87,1573.41,1173.54,293.48,56683.9,MAJOR,Major change - investigate
+662,130.46,977.39,846.93,649.19,50179.3,MAJOR,Major change - investigate
+663,408.45,2514.74,2106.29,515.69,48749.6,MAJOR,Major change - investigate
+664,50.15,228.03,177.89,354.74,28870.5,MAJOR,Major change - investigate
+665,1628.99,4097.24,2468.25,151.52,62621.2,MAJOR,Major change - investigate
+666,355.5,306.82,-48.68,-13.69,60122.2,MAJOR,Major change - investigate
+667,1718.74,937.52,-781.22,-45.45,76946.8,MAJOR,Major change - investigate
+668,5049.99,624.24,-4425.76,-87.64,31572.6,MAJOR,Major change - investigate
+669,2490.31,975.33,-1514.98,-60.83,18865.8,MAJOR,Major change - investigate
+670,1573.18,4288.32,2715.14,172.59,36974.7,MAJOR,Major change - investigate
+671,2846.58,498.33,-2348.25,-82.49,27160.3,MAJOR,Major change - investigate
+672,2937.7,421.81,-2515.89,-85.64,16853.0,MAJOR,Major change - investigate
+673,960.19,816.46,-143.73,-14.97,9548.9,MAJOR,Major change - investigate
+674,830.53,1324.8,494.27,59.51,9692.1,MAJOR,Major change - investigate
+675,520.72,263.92,-256.8,-49.32,7192.5,MAJOR,Major change - investigate
+676,3964.39,512.84,-3451.55,-87.06,56087.8,MAJOR,Major change - investigate
+677,1642.7,1576.07,-66.62,-4.06,68377.2,MAJOR,Major change - investigate
+678,2927.77,226.22,-2701.55,-92.27,68717.7,MAJOR,Major change - investigate
+679,543.12,628.18,85.05,15.66,66493.1,MAJOR,Major change - investigate
+68,2832.45,38.73,-2793.73,-98.63,168147.8,MAJOR,Major change - investigate
+680,818.35,211.76,-606.59,-74.12,71745.0,MAJOR,Major change - investigate
+681,4381.14,552.92,-3828.22,-87.38,74402.2,MAJOR,Major change - investigate
+682,2013.68,467.7,-1545.98,-76.77,67437.6,MAJOR,Major change - investigate
+683,2370.03,962.34,-1407.69,-59.4,74391.1,MAJOR,Major change - investigate
+684,640.2,2593.37,1953.18,305.09,66444.5,MAJOR,Major change - investigate
+685,315.97,253.67,-62.31,-19.72,60985.2,MAJOR,Major change - investigate
+686,717.7,516.08,-201.62,-28.09,50995.2,MAJOR,Major change - investigate
+687,531.46,326.95,-204.52,-38.48,58427.5,MAJOR,Major change - investigate
+688,831.86,187.49,-644.36,-77.46,65542.9,MAJOR,Major change - investigate
+689,1735.14,1994.07,258.93,14.92,44686.0,MAJOR,Major change - investigate
+690,670.4,552.6,-117.8,-17.57,20435.3,MAJOR,Major change - investigate
+691,957.79,1641.08,683.29,71.34,11209.0,MAJOR,Major change - investigate
+692,914.06,871.9,-42.16,-4.61,31610.4,MAJOR,Major change - investigate
+693,1141.16,797.97,-343.19,-30.07,29809.2,MAJOR,Major change - investigate
+694,399.0,547.99,148.99,37.34,22392.1,MAJOR,Major change - investigate
+695,426.58,4166.03,3739.46,876.62,15270.4,MAJOR,Major change - investigate
+696,1064.11,2714.23,1650.12,155.07,26921.3,MAJOR,Major change - investigate
+697,1372.54,1126.26,-246.28,-17.94,20301.0,MAJOR,Major change - investigate
+698,1439.41,1597.37,157.96,10.97,55849.3,MAJOR,Major change - investigate
+699,558.05,1794.06,1236.01,221.49,50445.7,MAJOR,Major change - investigate
+7,684.22,37.99,-646.22,-94.45,313790.7,MAJOR,Major change - investigate
+700,425.92,2854.27,2428.35,570.14,43761.2,MAJOR,Major change - investigate
+701,1325.73,4016.77,2691.04,202.99,43095.8,MAJOR,Major change - investigate
+702,263.92,1653.56,1389.63,526.53,48575.3,MAJOR,Major change - investigate
+703,100.84,4417.68,4316.84,4280.95,22298.2,MAJOR,Major change - investigate
+704,191.19,317.67,126.48,66.15,35061.5,MAJOR,Major change - investigate
+705,1019.1,720.08,-299.02,-29.34,31217.7,MAJOR,Major change - investigate
+706,3414.1,558.05,-2856.05,-83.65,39194.4,MAJOR,Major change - investigate
+707,1410.47,2927.9,1517.42,107.58,22077.2,MAJOR,Major change - investigate
+708,369.86,531.25,161.39,43.64,22574.6,MAJOR,Major change - investigate
+709,1765.23,2829.23,1063.99,60.27,38761.4,MAJOR,Major change - investigate
+710,2740.8,1735.14,-1005.66,-36.69,21933.7,MAJOR,Major change - investigate
+711,650.6,820.85,170.25,26.17,14451.2,MAJOR,Major change - investigate
+712,3237.13,654.48,-2582.65,-79.78,24151.6,MAJOR,Major change - investigate
+713,561.59,900.25,338.66,60.3,8860.0,MAJOR,Major change - investigate
+714,897.95,342.56,-555.39,-61.85,13583.0,MAJOR,Major change - investigate
+715,202.9,82.45,-120.44,-59.36,975.3,MAJOR,Major change - investigate
+716,205.29,186.61,-18.68,-9.1,3282.1,MAJOR,Major change - investigate
+717,854.3,491.15,-363.15,-42.51,12679.1,MAJOR,Major change - investigate
+718,186.61,203.83,17.22,9.23,3267.3,MAJOR,Major change - investigate
+719,1035.1,637.6,-397.5,-38.4,75678.8,MAJOR,Major change - investigate
+72,742.72,38.21,-704.51,-94.85,186797.8,MAJOR,Major change - investigate
+720,121.02,665.71,544.69,450.08,77188.1,MAJOR,Major change - investigate
+721,116.79,971.72,854.93,732.01,72425.0,MAJOR,Major change - investigate
+74,883.26,106.09,-777.17,-87.99,191746.7,MAJOR,Major change - investigate
+751,1618.5,100.61,-1517.89,-93.78,93588.5,MAJOR,Major change - investigate
+752,1187.46,130.77,-1056.69,-88.99,99650.8,MAJOR,Major change - investigate
+753,1784.61,233.12,-1551.48,-86.94,97749.3,MAJOR,Major change - investigate
+754,935.66,132.36,-803.3,-85.85,95909.1,MAJOR,Major change - investigate
+755,981.64,80.14,-901.5,-91.84,88052.3,MAJOR,Major change - investigate
+756,2295.91,185.13,-2110.78,-91.94,80816.9,MAJOR,Major change - investigate
+757,3520.82,612.94,-2907.88,-82.59,75388.9,MAJOR,Major change - investigate
+758,8329.07,297.79,-8031.28,-96.42,86329.7,MAJOR,Major change - investigate
+759,2617.07,716.64,-1900.43,-72.62,98751.1,MAJOR,Major change - investigate
+760,4910.9,130.01,-4780.89,-97.35,76486.0,MAJOR,Major change - investigate
+761,1113.11,490.26,-622.85,-55.96,80891.0,MAJOR,Major change - investigate
+762,1176.69,172.89,-1003.81,-85.31,80726.2,MAJOR,Major change - investigate
+763,1959.33,261.64,-1697.69,-86.65,88961.4,MAJOR,Major change - investigate
+764,920.01,159.55,-760.46,-82.66,90635.9,MAJOR,Major change - investigate
+765,1607.17,394.15,-1213.02,-75.48,96433.9,MAJOR,Major change - investigate
+766,1030.36,179.38,-850.98,-82.59,61413.7,MAJOR,Major change - investigate
+767,1889.56,439.98,-1449.58,-76.72,65242.7,MAJOR,Major change - investigate
+768,957.8,129.75,-828.05,-86.45,58269.4,MAJOR,Major change - investigate
+769,966.93,128.74,-838.2,-86.69,78855.0,MAJOR,Major change - investigate
+770,725.84,356.67,-369.17,-50.86,83233.7,MAJOR,Major change - investigate
+771,1367.66,385.65,-982.01,-71.8,87899.8,MAJOR,Major change - investigate
+772,1106.09,198.55,-907.54,-82.05,87758.3,MAJOR,Major change - investigate
+773,819.15,333.17,-485.98,-59.33,81633.7,MAJOR,Major change - investigate
+774,2376.41,573.9,-1802.51,-75.85,94376.5,MAJOR,Major change - investigate
+775,976.81,818.78,-158.04,-16.18,97952.2,MAJOR,Major change - investigate
+776,2382.29,537.28,-1845.02,-77.45,124156.5,MAJOR,Major change - investigate
+777,1163.71,488.42,-675.28,-58.03,106683.1,MAJOR,Major change - investigate
+778,3142.06,151.18,-2990.89,-95.19,99983.8,MAJOR,Major change - investigate
+779,743.17,452.81,-290.36,-39.07,111463.4,MAJOR,Major change - investigate
+780,3164.26,164.12,-3000.14,-94.81,94521.7,MAJOR,Major change - investigate
+781,837.42,414.98,-422.44,-50.45,86681.5,MAJOR,Major change - investigate
+782,1230.96,237.88,-993.08,-80.68,84910.8,MAJOR,Major change - investigate
+783,753.29,453.39,-299.9,-39.81,89887.8,MAJOR,Major change - investigate
+784,871.86,441.57,-430.29,-49.35,78402.5,MAJOR,Major change - investigate
+785,615.19,654.28,39.09,6.35,83610.8,MAJOR,Major change - investigate
+786,585.28,612.64,27.36,4.67,89360.5,MAJOR,Major change - investigate
+787,5472.29,162.32,-5309.97,-97.03,109786.9,MAJOR,Major change - investigate
+788,9432.93,243.92,-9189.02,-97.41,98703.1,MAJOR,Major change - investigate
+789,3923.54,649.59,-3273.95,-83.44,98025.0,MAJOR,Major change - investigate
+79,448.2,1.05,-447.16,-99.77,26037.9,MAJOR,Major change - investigate
+790,2898.16,681.36,-2216.8,-76.49,114327.7,MAJOR,Major change - investigate
+791,3032.07,399.12,-2632.95,-86.84,98420.6,MAJOR,Major change - investigate
+792,3073.46,239.11,-2834.35,-92.22,132634.2,MAJOR,Major change - investigate
+793,929.07,481.89,-447.18,-48.13,101132.2,MAJOR,Major change - investigate
+794,2044.71,1960.06,-84.65,-4.14,102930.5,MAJOR,Major change - investigate
+795,614.82,387.79,-227.03,-36.93,76973.2,MAJOR,Major change - investigate
+796,2520.88,235.56,-2285.31,-90.66,62584.1,MAJOR,Major change - investigate
+797,446.79,685.43,238.64,53.41,51346.1,MAJOR,Major change - investigate
+798,2036.3,1052.09,-984.21,-48.33,56908.3,MAJOR,Major change - investigate
+799,2988.59,747.72,-2240.87,-74.98,56605.5,MAJOR,Major change - investigate
+8,733.0,16.37,-716.62,-97.77,313433.3,MAJOR,Major change - investigate
+800,2374.09,408.79,-1965.3,-82.78,45501.3,MAJOR,Major change - investigate
+801,1820.27,163.26,-1657.01,-91.03,37338.4,MAJOR,Major change - investigate
+802,1665.78,723.99,-941.79,-56.54,59304.6,MAJOR,Major change - investigate
+803,2621.99,292.32,-2329.67,-88.85,58637.5,MAJOR,Major change - investigate
+804,2491.77,706.16,-1785.61,-71.66,78762.5,MAJOR,Major change - investigate
+805,414.5,249.96,-164.54,-39.7,59667.3,MAJOR,Major change - investigate
+806,739.04,585.25,-153.78,-20.81,85297.0,MAJOR,Major change - investigate
+807,1333.39,1014.42,-318.96,-23.92,88476.5,MAJOR,Major change - investigate
+808,1466.77,629.07,-837.7,-57.11,92714.8,MAJOR,Major change - investigate
+809,9787.75,729.49,-9058.26,-92.55,66525.5,MAJOR,Major change - investigate
+810,610.75,494.22,-116.53,-19.08,46747.7,MAJOR,Major change - investigate
+811,827.86,986.0,158.14,19.1,45073.6,MAJOR,Major change - investigate
+812,1414.98,1642.41,227.43,16.07,32954.7,MAJOR,Major change - investigate
+814,1634.53,673.99,-960.54,-58.77,46714.0,MAJOR,Major change - investigate
+815,3815.82,384.99,-3430.84,-89.91,66331.5,MAJOR,Major change - investigate
+816,1091.79,598.42,-493.37,-45.19,51707.7,MAJOR,Major change - investigate
+817,1644.04,1028.95,-615.09,-37.41,54358.9,MAJOR,Major change - investigate
+818,1472.25,637.85,-834.41,-56.68,28921.9,MAJOR,Major change - investigate
+819,1833.69,136.75,-1696.93,-92.54,43009.5,MAJOR,Major change - investigate
+82,332.42,0.54,-331.89,-99.84,29721.9,MAJOR,Major change - investigate
+820,1717.3,4780.76,3063.46,178.39,50396.6,MAJOR,Major change - investigate
+821,1116.68,1577.75,461.08,41.29,34880.4,MAJOR,Major change - investigate
+822,860.53,94.2,-766.33,-89.05,50789.8,MAJOR,Major change - investigate
+823,965.06,2568.53,1603.47,166.15,40347.7,MAJOR,Major change - investigate
+824,2550.18,472.16,-2078.02,-81.49,59778.6,MAJOR,Major change - investigate
+825,504.46,680.4,175.94,34.88,65207.9,MAJOR,Major change - investigate
+826,935.34,544.45,-390.89,-41.79,46516.1,MAJOR,Major change - investigate
+827,572.67,302.37,-270.3,-47.2,44150.8,MAJOR,Major change - investigate
+828,1551.83,140.14,-1411.69,-90.97,37511.4,MAJOR,Major change - investigate
+829,1388.88,173.16,-1215.72,-87.53,41629.0,MAJOR,Major change - investigate
+830,986.0,140.12,-845.88,-85.79,33541.5,MAJOR,Major change - investigate
+831,497.04,472.38,-24.66,-4.96,30614.1,MAJOR,Major change - investigate
+832,1662.74,1384.1,-278.64,-16.76,7004.8,MAJOR,Major change - investigate
+833,1965.06,1776.82,-188.24,-9.58,404.0,MOD,Moderate change - review
+834,5647.67,222.15,-5425.52,-96.07,13327.7,MAJOR,Major change - investigate
+835,162.32,4058.69,3896.37,2400.44,33199.8,MAJOR,Major change - investigate
+836,2126.31,2616.33,490.03,23.05,53229.0,MAJOR,Major change - investigate
+837,913.66,6458.19,5544.53,606.85,56865.9,MAJOR,Major change - investigate
+838,1819.93,308.01,-1511.92,-83.08,76942.3,MAJOR,Major change - investigate
+839,390.55,132.41,-258.14,-66.1,79544.0,MAJOR,Major change - investigate
+840,706.33,1848.45,1142.12,161.7,100861.0,MAJOR,Major change - investigate
+841,1578.66,516.98,-1061.68,-67.25,101296.3,MAJOR,Major change - investigate
+842,314.57,1372.54,1057.97,336.32,93292.6,MAJOR,Major change - investigate
+843,470.68,4265.71,3795.02,806.28,85770.0,MAJOR,Major change - investigate
+844,842.09,1158.42,316.33,37.56,91722.7,MAJOR,Major change - investigate
+845,163.12,432.99,269.87,165.45,91894.9,MAJOR,Major change - investigate
+846,254.13,426.58,172.44,67.86,86363.2,MAJOR,Major change - investigate
+847,761.04,3399.82,2638.78,346.73,76067.0,MAJOR,Major change - investigate
+849,2141.64,3492.94,1351.3,63.1,193878.5,MAJOR,Major change - investigate
+85,174.27,75.91,-98.36,-56.44,31497.5,MAJOR,Major change - investigate
+850,1921.63,1437.89,-483.73,-25.17,191891.5,MAJOR,Major change - investigate
+851,2093.47,4056.15,1962.68,93.75,196304.5,MAJOR,Major change - investigate
+852,1192.72,2315.71,1122.98,94.15,193817.9,MAJOR,Major change - investigate
+853,3351.68,4073.68,722.01,21.54,173433.9,MAJOR,Major change - investigate
+854,885.21,5836.51,4951.31,559.34,138872.1,MAJOR,Major change - investigate
+855,2524.14,347.35,-2176.79,-86.24,129252.5,MAJOR,Major change - investigate
+856,3266.37,3337.21,70.84,2.17,117717.6,MAJOR,Major change - investigate
+857,2551.87,1496.3,-1055.57,-41.36,145143.0,MAJOR,Major change - investigate
+858,2079.72,3585.91,1506.19,72.42,122502.9,MAJOR,Major change - investigate
+859,4812.99,1068.8,-3744.19,-77.79,175130.3,MAJOR,Major change - investigate
+860,1481.17,129.74,-1351.42,-91.24,117158.2,MAJOR,Major change - investigate
+861,1451.23,56.4,-1394.82,-96.11,122441.1,MAJOR,Major change - investigate
+862,2487.66,21.33,-2466.33,-99.14,118160.9,MAJOR,Major change - investigate
+863,2238.01,274.02,-1963.99,-87.76,137634.9,MAJOR,Major change - investigate
+864,3107.04,323.84,-2783.2,-89.58,147500.6,MAJOR,Major change - investigate
+865,1751.15,66.61,-1684.54,-96.2,102564.4,MAJOR,Major change - investigate
+866,434.3,201.21,-233.09,-53.67,110642.8,MAJOR,Major change - investigate
+867,2421.74,23.77,-2397.97,-99.02,105218.7,MAJOR,Major change - investigate
+868,1257.24,231.64,-1025.6,-81.58,109978.5,MAJOR,Major change - investigate
+869,409.43,10.59,-398.83,-97.41,115713.5,MAJOR,Major change - investigate
+870,2038.38,85.62,-1952.76,-95.8,103365.4,MAJOR,Major change - investigate
+871,1217.9,1158.41,-59.49,-4.88,87006.2,MAJOR,Major change - investigate
+872,839.43,72.41,-767.02,-91.37,105337.3,MAJOR,Major change - investigate
+873,449.12,53.39,-395.73,-88.11,76385.3,MAJOR,Major change - investigate
+874,1123.34,56.19,-1067.15,-95.0,108631.1,MAJOR,Major change - investigate
+875,628.5,289.08,-339.42,-54.0,136657.5,MAJOR,Major change - investigate
+876,499.86,107.21,-392.65,-78.55,140420.0,MAJOR,Major change - investigate
+877,378.33,418.82,40.49,10.7,139721.4,MAJOR,Major change - investigate
+878,992.34,142.73,-849.61,-85.62,135875.7,MAJOR,Major change - investigate
+88,441.0,87.42,-353.58,-80.18,38837.7,MAJOR,Major change - investigate
+880,737.73,209.35,-528.38,-71.62,114813.8,MAJOR,Major change - investigate
+881,1022.86,4700.0,3677.14,359.5,116435.9,MAJOR,Major change - investigate
+882,309.14,1327.96,1018.82,329.57,119109.3,MAJOR,Major change - investigate
+883,676.62,686.79,10.17,1.5,121776.4,MAJOR,Major change - investigate
+884,307.99,956.88,648.89,210.68,125217.0,MAJOR,Major change - investigate
+885,598.36,182.12,-416.25,-69.56,108668.5,MAJOR,Major change - investigate
+886,274.54,1400.39,1125.85,410.09,121889.5,MAJOR,Major change - investigate
+887,839.98,150.58,-689.4,-82.07,130153.6,MAJOR,Major change - investigate
+888,145.38,395.53,250.15,172.07,125301.0,MAJOR,Major change - investigate
+889,177.03,844.55,667.53,377.07,120786.9,MAJOR,Major change - investigate
+89,484.61,16.75,-467.86,-96.54,47431.8,MAJOR,Major change - investigate
+890,687.08,2382.96,1695.88,246.82,124277.8,MAJOR,Major change - investigate
+891,470.9,969.45,498.55,105.87,150934.4,MAJOR,Major change - investigate
+892,489.07,862.62,373.56,76.38,133131.8,MAJOR,Major change - investigate
+893,1720.15,2536.03,815.88,47.43,158093.5,MAJOR,Major change - investigate
+894,627.32,94.03,-533.29,-85.01,134708.4,MAJOR,Major change - investigate
+895,743.48,183.02,-560.46,-75.38,135875.3,MAJOR,Major change - investigate
+896,2076.78,609.52,-1467.26,-70.65,152140.6,MAJOR,Major change - investigate
+897,2128.29,1634.21,-494.08,-23.21,167709.7,MAJOR,Major change - investigate
+898,1810.33,79.9,-1730.43,-95.59,130474.0,MAJOR,Major change - investigate
+899,509.48,396.74,-112.74,-22.13,130848.4,MAJOR,Major change - investigate
+9,387.25,23.28,-363.97,-93.99,316411.8,MAJOR,Major change - investigate
+90,426.63,22.57,-404.06,-94.71,51624.7,MAJOR,Major change - investigate
+900,446.72,753.54,306.82,68.68,132112.8,MAJOR,Major change - investigate
+901,2754.21,2871.9,117.7,4.27,136511.9,MAJOR,Major change - investigate
+902,985.64,532.47,-453.16,-45.98,129172.0,MAJOR,Major change - investigate
+903,247.22,200.63,-46.59,-18.84,139769.9,MAJOR,Major change - investigate
+904,2227.72,409.18,-1818.54,-81.63,149855.1,MAJOR,Major change - investigate
+905,1555.56,251.79,-1303.78,-83.81,148741.0,MAJOR,Major change - investigate
+906,574.86,1801.36,1226.5,213.35,146056.0,MAJOR,Major change - investigate
+907,1749.39,1324.46,-424.93,-24.29,146177.1,MAJOR,Major change - investigate
+908,1773.06,1818.8,45.74,2.58,155590.7,MAJOR,Major change - investigate
+909,1756.44,2478.23,721.78,41.09,168130.1,MAJOR,Major change - investigate
+91,333.29,34.88,-298.41,-89.54,46060.2,MAJOR,Major change - investigate
+910,650.8,1867.68,1216.88,186.98,169533.3,MAJOR,Major change - investigate
+911,1055.63,3475.56,2419.93,229.24,159385.2,MAJOR,Major change - investigate
+912,2351.48,3859.09,1507.62,64.11,188326.7,MAJOR,Major change - investigate
+913,398.85,2346.0,1947.16,488.2,160346.5,MAJOR,Major change - investigate
+914,461.4,612.93,151.53,32.84,147234.6,MAJOR,Major change - investigate
+915,410.09,1267.43,857.33,209.06,133439.7,MAJOR,Major change - investigate
+916,462.46,138.76,-323.7,-69.99,131259.1,MAJOR,Major change - investigate
+917,452.74,91.17,-361.57,-79.86,129104.8,MAJOR,Major change - investigate
+918,535.31,100.76,-434.54,-81.18,134542.4,MAJOR,Major change - investigate
+919,380.71,175.43,-205.28,-53.92,176520.7,MAJOR,Major change - investigate
+92,199.52,50.99,-148.53,-74.45,49735.0,MAJOR,Major change - investigate
+920,507.03,1187.4,680.36,134.18,150062.7,MAJOR,Major change - investigate
+921,644.04,3897.71,3253.67,505.19,150042.4,MAJOR,Major change - investigate
+922,467.97,2427.43,1959.46,418.72,153205.9,MAJOR,Major change - investigate
+923,940.52,21259.27,20318.75,2160.38,172274.4,MAJOR,Major change - investigate
+924,543.64,5813.26,5269.62,969.33,161654.2,MAJOR,Major change - investigate
+925,2060.4,1807.45,-252.95,-12.28,161701.9,MAJOR,Major change - investigate
+926,283.41,1522.99,1239.58,437.38,169679.5,MAJOR,Major change - investigate
+927,2733.34,92.27,-2641.07,-96.62,145317.5,MAJOR,Major change - investigate
+928,382.0,114.01,-267.99,-70.15,159531.8,MAJOR,Major change - investigate
+929,255.16,5023.23,4768.07,1868.65,195569.6,MAJOR,Major change - investigate
+93,170.6,141.58,-29.02,-17.01,58873.2,MAJOR,Major change - investigate
+930,1060.93,653.07,-407.86,-38.44,177228.3,MAJOR,Major change - investigate
+931,277.94,2929.0,2651.06,953.81,154224.3,MAJOR,Major change - investigate
+932,827.61,2412.15,1584.54,191.46,161088.2,MAJOR,Major change - investigate
+933,327.2,1858.58,1531.38,468.03,167935.2,MAJOR,Major change - investigate
+934,984.9,1493.06,508.16,51.59,142661.8,MAJOR,Major change - investigate
+935,840.72,6676.05,5835.33,694.09,163490.1,MAJOR,Major change - investigate
+936,361.74,15396.31,15034.57,4156.14,194835.1,MAJOR,Major change - investigate
+937,543.52,848.05,304.53,56.03,156569.5,MAJOR,Major change - investigate
+938,548.8,1898.89,1350.09,246.01,146288.6,MAJOR,Major change - investigate
+939,336.53,2095.74,1759.22,522.76,158729.6,MAJOR,Major change - investigate
+94,186.91,11.59,-175.32,-93.8,45852.9,MAJOR,Major change - investigate
+940,605.12,1704.92,1099.81,181.75,153238.5,MAJOR,Major change - investigate
+941,306.33,1329.74,1023.41,334.09,155887.6,MAJOR,Major change - investigate
+942,137.73,673.2,535.47,388.79,155837.4,MAJOR,Major change - investigate
+943,631.47,253.71,-377.76,-59.82,158341.0,MAJOR,Major change - investigate
+944,1110.36,405.07,-705.28,-63.52,164032.6,MAJOR,Major change - investigate
+945,878.8,641.36,-237.43,-27.02,169052.7,MAJOR,Major change - investigate
+946,493.88,470.04,-23.84,-4.83,163844.6,MAJOR,Major change - investigate
+947,793.6,316.01,-477.59,-60.18,156244.5,MAJOR,Major change - investigate
+948,671.86,196.77,-475.09,-70.71,157968.6,MAJOR,Major change - investigate
+949,927.15,1188.21,261.06,28.16,163338.9,MAJOR,Major change - investigate
+95,487.86,22.92,-464.94,-95.3,51499.9,MAJOR,Major change - investigate
+950,570.67,381.38,-189.29,-33.17,168908.0,MAJOR,Major change - investigate
+951,613.57,270.43,-343.14,-55.93,152263.8,MAJOR,Major change - investigate
+952,443.18,4957.88,4514.7,1018.7,189396.3,MAJOR,Major change - investigate
+953,1695.89,3473.64,1777.75,104.83,186511.9,MAJOR,Major change - investigate
+954,982.14,3221.44,2239.3,228.0,188649.3,MAJOR,Major change - investigate
+955,1598.45,1828.97,230.52,14.42,185091.6,MAJOR,Major change - investigate
+956,1789.25,1085.7,-703.55,-39.32,179946.6,MAJOR,Major change - investigate
+957,879.53,177.39,-702.14,-79.83,184982.0,MAJOR,Major change - investigate
+958,703.48,499.05,-204.43,-29.06,185081.0,MAJOR,Major change - investigate
+959,793.82,4518.68,3724.86,469.23,191953.1,MAJOR,Major change - investigate
+96,873.11,11.48,-861.63,-98.69,51976.1,MAJOR,Major change - investigate
+960,856.48,148.88,-707.59,-82.62,174705.5,MAJOR,Major change - investigate
+961,744.39,157.44,-586.95,-78.85,178259.0,MAJOR,Major change - investigate
+962,693.87,412.45,-281.43,-40.56,168638.4,MAJOR,Major change - investigate
+963,1101.21,456.89,-644.32,-58.51,167197.0,MAJOR,Major change - investigate
+964,325.65,124.06,-201.6,-61.91,172873.8,MAJOR,Major change - investigate
+965,1008.25,331.64,-676.61,-67.11,161243.5,MAJOR,Major change - investigate
+966,965.79,87.48,-878.3,-90.94,154401.2,MAJOR,Major change - investigate
+967,1057.74,538.34,-519.4,-49.1,161062.0,MAJOR,Major change - investigate
+968,1092.88,419.21,-673.67,-61.64,168214.1,MAJOR,Major change - investigate
+969,1128.21,198.41,-929.81,-82.41,159003.6,MAJOR,Major change - investigate
+97,1205.81,5.8,-1200.01,-99.52,52772.6,MAJOR,Major change - investigate
+970,1844.57,618.88,-1225.69,-66.45,168141.7,MAJOR,Major change - investigate
+971,2047.89,304.32,-1743.56,-85.14,173627.2,MAJOR,Major change - investigate
+972,388.83,262.28,-126.55,-32.55,212380.4,MAJOR,Major change - investigate
+973,733.72,87.32,-646.39,-88.1,210037.7,MAJOR,Major change - investigate
+974,690.69,2196.91,1506.22,218.08,171560.9,MAJOR,Major change - investigate
+975,996.74,1008.24,11.5,1.15,176271.8,MAJOR,Major change - investigate
+976,765.66,2984.48,2218.82,289.79,178530.7,MAJOR,Major change - investigate
+977,410.35,1414.77,1004.42,244.77,176302.2,MAJOR,Major change - investigate
+978,1127.43,2649.19,1521.76,134.98,177388.1,MAJOR,Major change - investigate
+979,152.75,545.35,392.6,257.02,178422.3,MAJOR,Major change - investigate
+98,196.29,11.57,-184.72,-94.11,50054.0,MAJOR,Major change - investigate
+980,156.05,1763.97,1607.92,1030.39,189397.7,MAJOR,Major change - investigate
+981,345.99,3520.43,3174.45,917.5,215024.4,MAJOR,Major change - investigate
+982,633.07,372.56,-260.5,-41.15,205875.2,MAJOR,Major change - investigate
+983,406.99,258.37,-148.62,-36.52,195444.6,MAJOR,Major change - investigate
+984,297.53,194.66,-102.87,-34.57,198550.8,MAJOR,Major change - investigate
+985,326.14,305.91,-20.23,-6.2,195805.5,MAJOR,Major change - investigate
+986,200.5,827.85,627.35,312.88,199038.8,MAJOR,Major change - investigate
+987,373.11,1364.77,991.66,265.78,200504.2,MAJOR,Major change - investigate
+988,234.77,1806.43,1571.66,669.44,183702.6,MAJOR,Major change - investigate
+989,276.36,875.19,598.83,216.69,179832.0,MAJOR,Major change - investigate
+99,149.23,5.82,-143.42,-96.1,46436.2,MAJOR,Major change - investigate
+990,1285.72,479.61,-806.11,-62.7,192021.9,MAJOR,Major change - investigate
+991,152.5,65.53,-86.97,-57.03,190936.2,MAJOR,Major change - investigate
+992,252.88,2415.96,2163.08,855.38,190780.0,MAJOR,Major change - investigate
+993,150.93,3204.29,3053.36,2023.0,200664.2,MAJOR,Major change - investigate
+994,157.16,1710.8,1553.63,988.55,216745.6,MAJOR,Major change - investigate
+995,183.8,383.27,199.47,108.53,216642.6,MAJOR,Major change - investigate
+996,37.49,541.39,503.9,1344.03,204599.0,MAJOR,Major change - investigate
+997,12.32,312.27,299.95,2434.81,244562.3,MAJOR,Major change - investigate
+998,15.6,458.57,442.97,2839.9,239931.5,MAJOR,Major change - investigate
+999,34.3,1112.38,1078.08,3143.0,245118.0,MAJOR,Major change - investigate
