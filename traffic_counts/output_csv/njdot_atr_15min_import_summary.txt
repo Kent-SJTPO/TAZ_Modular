@@ -1,0 +1,10 @@
+NJDOT ATR 15-minute import summary
+
+Input folder: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\input_xlsx
+Files processed: 1
+Wide interval records: 586
+Long length-bin records: 7032
+Total vehicles: 33775
+
+Wide CSV: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\output_csv\njdot_atr_15min_wide_import.csv
+Long CSV: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\output_csv\njdot_atr_15min_long_import.csv
