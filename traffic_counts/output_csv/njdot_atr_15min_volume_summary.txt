@@ -1,0 +1,8 @@
+NJDOT ATR 15-minute volume import summary
+
+Input folder: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\input_xlsx
+Files processed: 0
+Import records: 0
+Total volume: 0
+
+CSV: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\output_csv\njdot_atr_15min_volume_import.csv
