@@ -1,0 +1,14 @@
+traffic data import summary
+
+Input folder: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\input_xlsx
+Files scanned: 1
+Volume records: 0
+Length wide interval records: 1344
+Length long bin records: 18816
+Volume total: 0
+Length total: 23958
+
+Volume CSV: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\output_csv\atr_15min_volume_import.csv
+Length wide CSV: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\output_csv\atr_15min_length_wide_import.csv
+Length long CSV: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\output_csv\atr_15min_length_long_import.csv
+

@@ -1,0 +1,14 @@
+NJDOT traffic data import summary
+
+Input folder: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\input_xlsx
+Files scanned: 1
+Volume records: 336
+Length wide interval records: 0
+Length long bin records: 0
+Volume total: 24111
+Length total: 0
+
+Volume CSV: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\output_csv\njdot_atr_15min_volume_import.csv
+Length wide CSV: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\output_csv\njdot_atr_15min_length_wide_import.csv
+Length long CSV: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\output_csv\njdot_atr_15min_length_long_import.csv
+
