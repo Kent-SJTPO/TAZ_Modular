@@ -1,0 +1,25 @@
+Run time: 2026-06-03 13:25:57
+Source folder: J:\Data Inventory\Traffic Counts\Imperial\ATR Format\60 Minute
+Input folder: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts
+Output folder: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\processed
+Pattern: *60 Minute*.xlsx
+
+Already local, skipped copy: ATR 5. Deliah Road, near Wawa & Southern Driveway_60 Minute.xlsx
+
+Source files copied: 0
+Local workbook count: 1
+
+Processing: ATR 5. Deliah Road, near Wawa & Southern Driveway_60 Minute.xlsx
+  Station-day rows: 7
+  Class rows:       42
+  Archive step skipped
+
+Final summary
+------------------------------
+Source files copied:     0
+Workbooks found locally: 1
+Workbooks processed:     1
+Station-day rows:        7
+Class rows:              42
+Class TXT:               C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\processed\tblClassByHour_import_daily.txt
+Station TXT:             C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\processed\tblTrafficStations_import_daily.txt

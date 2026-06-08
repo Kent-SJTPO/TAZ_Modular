@@ -1,0 +1,25 @@
+Run time: 2026-06-03 14:36:00
+Source folder: J:\Data Inventory\Traffic Counts\Imperial\ATR Format
+Output folder: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\output_csv
+Filter: *.xlsx files containing '60 Min Volume' and not '60 Minute'
+
+Files found: 2
+  ATR 12. Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd_60 Min Volume.xlsx
+  ATR 60. NJ 49, btwn S Bethel Rd & Center Grove Rd_60 Min Volume.xlsx
+
+Processing: ATR 12. Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd_60 Min Volume.xlsx
+  Volume total rows: 18
+  Station rows:      9
+
+Processing: ATR 60. NJ 49, btwn S Bethel Rd & Center Grove Rd_60 Min Volume.xlsx
+  Volume total rows: 18
+  Station rows:      9
+
+Final summary
+------------------------------
+Files found:        2
+Files processed:    2
+Volume total rows:  36
+Station rows:       18
+Volume TXT:         C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\output_csv\tblHourlyVolumeTotal_import.txt
+Station TXT:        C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\output_csv\tblVolumeStations_import.txt

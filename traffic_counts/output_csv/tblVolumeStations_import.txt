@@ -1,0 +1,19 @@
+﻿Station	CountDate	Route	Description	SourceFile	SourceSheet	RecordsLoaded
+Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd	04/30/2026	Weekstown Rd	Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd	ATR 12. Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd_60 Min Volume.xlsx	Count Information	24
+Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd	05/01/2026	Weekstown Rd	Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd	ATR 12. Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd_60 Min Volume.xlsx	Count Information	48
+Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd	05/02/2026	Weekstown Rd	Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd	ATR 12. Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd_60 Min Volume.xlsx	Count Information	48
+Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd	05/03/2026	Weekstown Rd	Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd	ATR 12. Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd_60 Min Volume.xlsx	Count Information	48
+Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd	05/04/2026	Weekstown Rd	Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd	ATR 12. Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd_60 Min Volume.xlsx	Count Information	48
+Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd	05/05/2026	Weekstown Rd	Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd	ATR 12. Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd_60 Min Volume.xlsx	Count Information	48
+Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd	05/06/2026	Weekstown Rd	Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd	ATR 12. Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd_60 Min Volume.xlsx	Count Information	48
+Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd	05/07/2026	Weekstown Rd	Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd	ATR 12. Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd_60 Min Volume.xlsx	Count Information	48
+Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd	05/08/2026	Weekstown Rd	Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd	ATR 12. Weekstown Rd, btwn Columbia Rd & Indian Cabin Rd_60 Min Volume.xlsx	Count Information	26
+NJ 49, btwn S Bethel Rd & Center Grove Rd	04/30/2026	NJ 49	NJ 49, btwn S Bethel Rd & Center Grove Rd	ATR 60. NJ 49, btwn S Bethel Rd & Center Grove Rd_60 Min Volume.xlsx	Count Information	26
+NJ 49, btwn S Bethel Rd & Center Grove Rd	05/01/2026	NJ 49	NJ 49, btwn S Bethel Rd & Center Grove Rd	ATR 60. NJ 49, btwn S Bethel Rd & Center Grove Rd_60 Min Volume.xlsx	Count Information	48
+NJ 49, btwn S Bethel Rd & Center Grove Rd	05/02/2026	NJ 49	NJ 49, btwn S Bethel Rd & Center Grove Rd	ATR 60. NJ 49, btwn S Bethel Rd & Center Grove Rd_60 Min Volume.xlsx	Count Information	48
+NJ 49, btwn S Bethel Rd & Center Grove Rd	05/03/2026	NJ 49	NJ 49, btwn S Bethel Rd & Center Grove Rd	ATR 60. NJ 49, btwn S Bethel Rd & Center Grove Rd_60 Min Volume.xlsx	Count Information	48
+NJ 49, btwn S Bethel Rd & Center Grove Rd	05/04/2026	NJ 49	NJ 49, btwn S Bethel Rd & Center Grove Rd	ATR 60. NJ 49, btwn S Bethel Rd & Center Grove Rd_60 Min Volume.xlsx	Count Information	48
+NJ 49, btwn S Bethel Rd & Center Grove Rd	05/05/2026	NJ 49	NJ 49, btwn S Bethel Rd & Center Grove Rd	ATR 60. NJ 49, btwn S Bethel Rd & Center Grove Rd_60 Min Volume.xlsx	Count Information	48
+NJ 49, btwn S Bethel Rd & Center Grove Rd	05/06/2026	NJ 49	NJ 49, btwn S Bethel Rd & Center Grove Rd	ATR 60. NJ 49, btwn S Bethel Rd & Center Grove Rd_60 Min Volume.xlsx	Count Information	48
+NJ 49, btwn S Bethel Rd & Center Grove Rd	05/07/2026	NJ 49	NJ 49, btwn S Bethel Rd & Center Grove Rd	ATR 60. NJ 49, btwn S Bethel Rd & Center Grove Rd_60 Min Volume.xlsx	Count Information	48
+NJ 49, btwn S Bethel Rd & Center Grove Rd	05/08/2026	NJ 49	NJ 49, btwn S Bethel Rd & Center Grove Rd	ATR 60. NJ 49, btwn S Bethel Rd & Center Grove Rd_60 Min Volume.xlsx	Count Information	28
