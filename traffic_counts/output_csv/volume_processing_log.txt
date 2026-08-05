@@ -1,4 +1,4 @@
-Run time: 2026-08-05 08:22:27
+Run time: 2026-08-05 10:16:33
 Source folder: J:\Data Inventory\Traffic Counts\Imperial\ATR Format
 Output folder: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\output_csv
 Filter: *.xlsx files containing '60 Min Volume' and not '60 Minute'
