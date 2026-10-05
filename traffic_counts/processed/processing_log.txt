@@ -1,4 +1,4 @@
-Run time: 2026-06-03 13:25:57
+Run time: 2026-08-05 11:09:23
 Source folder: J:\Data Inventory\Traffic Counts\Imperial\ATR Format\60 Minute
 Input folder: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts
 Output folder: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\processed

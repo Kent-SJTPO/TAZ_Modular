@@ -1,7 +1,7 @@
 NJDOT traffic data import summary
 
 Input folder: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\input_xlsx
-Files scanned: 1
+Files scanned: 11
 Volume records: 336
 Length wide interval records: 0
 Length long bin records: 0
@@ -12,3 +12,14 @@ Volume CSV: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\output_cs
 Length wide CSV: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\output_csv\njdot_atr_15min_length_wide_import.csv
 Length long CSV: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\output_csv\njdot_atr_15min_length_long_import.csv
 
+Unknown files:
+- Atlantic County Class by Hour.xlsx
+- Atlantic County May Aug 2025.xlsx
+- Burlington County May Aug 2025.xlsx
+- Camden County May Aug 2025.xlsx
+- Cape May Class by Hour.xlsx
+- Cape May County May Aug 2025.xlsx
+- Cumberland County May Aug 2025.xlsx
+- Gloucester County May Aug 2025.xlsx
+- Salem Class by Hour.xlsx
+- Salem County May Aug 2025.xlsx

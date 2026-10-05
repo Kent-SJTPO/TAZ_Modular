@@ -1,0 +1,74 @@
+OK 01_V/ATR 1. CR 601, Avalon Boulevard, just East of GSP NB Exit 13 Ramps_60 Minute.pdf: 336 hourly directional rows
+OK 03_R/ATR 3. E Mill Road, btwn Bay Drive & Shore Road_60 Min Volume.pdf: 336 hourly directional rows
+OK 04_T/ATR 4. NJ 47 (Delsea Drive), btwn Woodcock Rd & Bay Cove_60 Min Volume.pdf: 336 hourly directional rows
+OK 05_V/ATR 5. Deliah Road, near Wawa & Southern Driveway_60 Minute.pdf: 336 hourly directional rows
+OK 06_R/6. Route 47 (Delsea Drive), btwn Washington Ave & Creek Mill Rd_60 Min Volume.pdf: 336 hourly directional rows
+OK 07_T/ATR 7. Dehirsch Avenue, btwn Washington Ave & Adams Ave_60 Min Volume.pdf: 336 hourly directional rows
+OK 08_T/ATR 8. CR 649 (Head of River Rd), btwn David Run Rd & CR 648 (Head River Rd)_60 Min Volume.pdf: 336 hourly directional rows
+OK 09_T/ATR 9. CR 637 (Cumberland Avenue), btwn Cape May Ave & Tuckahoe Rd_60 Min Volume.pdf: 336 hourly directional rows
+OK 10_T/ATR 10. CR 669 (11th Ave), btwn Burnett Ave & Hudson Ave_60 Min Volume.pdf: 336 hourly directional rows
+OK 11_V/ATR 11. US 322, Black Horse Pike, 500 feet East of Palace Restaurant & Outfitters_60 Minute.pdf: 336 hourly directional rows
+OK 13_R/ATR 13. Mauricetown Crossway Road, btwn Route 47 & Route 744_60 Min Volume.pdf: 336 hourly directional rows
+OK 14_R/ATR 14. Sharp Street, btwn Columbia Ave & Cooper St_60 Min Volume.pdf: 336 hourly directional rows
+OK 15_R/ATR 15. NJ 49, btwn Sandy Ridge Road & ByPass Road_60 Min Volume.pdf: 336 hourly directional rows
+OK 16_V/ATR 16. US 30, White Horse Pike, just North of Exquisite Events Resort_60 Minute.pdf: 336 hourly directional rows
+OK 17_T/ATR 17. CR 623 (Elwood Road), btwn Moss Mill Rd & Columbia Rd_60 Min Volume.pdf: 336 hourly directional rows
+OK 18_T/ATR 18. Columbia Road, btwn Moss Mill Rd & Weekstown Rd_60 Min Volume.pdf: 336 hourly directional rows
+OK 19_T/ATR 19. CR 563 (Philadelphia Avenue), btwn Moss Mill Rd & Kant St_60 Min Volume.pdf: 336 hourly directional rows
+OK 20_T/ATR 20. S Cologne Avenue, btwn W Moss Mill Rd & Herschel St_60 Min Volume.pdf: 336 hourly directional rows
+OK 21_R/ATR 21. NJ 40 (Harding Highway), btwn Mill St & Somers Point Rd_60 Min Volume.pdf: 336 hourly directional rows
+OK 22_V/ATR 22. Route 55, south of Americold Logistics_60 Minute.pdf: 336 hourly directional rows
+OK 23_R/ATR 23. CR 615 N (Northeast Blvd) btwn Oak Road & Wheat Road_60 Min Volume.pdf: 336 hourly directional rows
+OK 24_R/ATR 24. NJ 77 (Pole Tavern-Bridgeton), btwn Chestnut St & Newkirk Station Rd_60 Min Volume.pdf: 336 hourly directional rows
+OK 25_T/ATR 25. Madison Avenue, btwn Massachusetts Ave & Rhode Island Ave_60 Min Volume.pdf: 168 hourly directional rows
+OK 26_T/ATR 26. Grammercy Place, btwn Massachusetts Ave & Rhode Island Ave_60 Min Volume.pdf: 168 hourly directional rows
+OK 27_V/ATR 27. Fairmount Avenue, between California Avenue & Iowa Avenue_60 Minute.pdf: 168 hourly directional rows
+OK 28_V/ATR 28. Arctic Avenue, between California Avenue & Iowa Avenue_60 Minute.pdf: 168 hourly directional rows
+OK 29_V/ATR 29. Ventnor Avenue, between Trenton Avenue & Black Horse Pike_60 Minute.pdf: 336 hourly directional rows
+OK 30_V/ATR 30. Atlantic Avenue, between Roosevelt Place & Black Horse Pike_60 Minute.pdf: 336 hourly directional rows
+OK 32_V/ATR 32. NJ 47, Delsea Drive, OutFront Pier 47 Marina_60 Minute.pdf: 336 hourly directional rows
+OK 33_V/ATR 33. NJ 147, N Wildwood Boulevard, West of the Old Wildwood Boulevard Jug Handle_60 Minute.pdf: 336 hourly directional rows
+OK 36_V/ATR 36. NJ 52, Howard South Stanton Memorial_60 Minute.pdf: 336 hourly directional rows
+OK 38_V/ATR 38. Route 40 _322, between Frankfort Court & Toulon Avenue_60 Minute.pdf: 336 hourly directional rows
+OK 39_V/ATR 39. US 30, 1.5 miles Southeast of the Royal Lodge Hotel_60 Minute.pdf: 336 hourly directional rows
+OK 40_V/ATR 40. NJ 49, W Main Street, between Cedar Street & Riverside Drive_60 Minute.pdf: 336 hourly directional rows
+OK 41_V/ATR 41. NJ 49, W Broad Street, between Water Street & Laurel Street_60 Minute.pdf: 336 hourly directional rows
+OK 42_R/ATR 42. NJ 47 (Delsea Drive), west of GSP, btwn 3rd St & 5th St_60 Min Volume.pdf: 336 hourly directional rows
+OK 43_R/ATR 43. NJ 50, btwn School House Ln & Route 49_60 Min Volume.pdf: 336 hourly directional rows
+OK 44_V/ATR 44. Ocean Drive Bridge, Outfront Malibu Dog Beach Lily_60 Minute.pdf: 336 hourly directional rows
+OK 45_T/CR 561 Alt (Moss Mill Rd), btwn Odessa Ave & Mannheim Ave_60 Min Volume.pdf: 336 hourly directional rows
+OK 46_T/ATR 46. Lincoln Avenue, btwn Oak Rd & Vine Rd_60 Minute Volume.pdf: 336 hourly directional rows
+OK 48_V/ATR 48. CR 601, Avalon Boulevard, Outfront Acme Markets_60 Minute.pdf: 336 hourly directional rows
+OK 49_R/ATR 49. CR 625 (Sea Isle Blvd), btwn Shore Road & west of GSP_60 Min Volume.pdf: 336 hourly directional rows
+OK 50_R/ATR 50. CR 662 (Mill Road), btwn Burton Ave & Route 9_60 Min Volume.pdf: 336 hourly directional rows
+OK 51_R/ATR 51. NJ 347 (E Creek Mill Road), btwn NJ 47 & Lehner Rd_60 Min Volume.pdf: 336 hourly directional rows
+OK 52_R/ATR 52. NJ 47 (Delsea Drive), btwn Sutton Ln & E Creek Mill Rd_60 Min Volume.pdf: 336 hourly directional rows
+OK 53_R/ATR 53. NJ 40 (Harding Highway), West of Millville Avenue_60 Min Volume.pdf: 336 hourly directional rows
+OK 55_V/ATR 55. Route 30, between Apple Drive & Rosemarie Avenue_60 Min.pdf: 332 hourly directional rows
+OK 56_V/ATR 56. Route 30, S White Horse Pike, 300 feet East of Korean United Methodist Church_60 Minute.pdf: 336 hourly directional rows
+OK 57_T/ATR 57. NJ 49, btwn 1st Ave & Head of River Rd_60 Min Volume.pdf: 336 hourly directional rows
+OK 58_R/ATR 58. Route 56 (Landis Ave), btwn Alvine Rd & Gershal Ave_60 Min Volume.pdf: 336 hourly directional rows
+OK 59_R/ATR 59. CR 552 (Sherman Ave), btwn Carmel Rd & Jesse Bridge Rd_60 Min Volume.pdf: 336 hourly directional rows
+OK 61_R/ATR 61. US 9 (New Rd), btwn W California Ave & Ohio Ave_60 Min Volume.pdf: 336 hourly directional rows
+OK 62_R/ATR 62. NJ 50 (Philadelphia Ave), btwn Atlantic Ave & Fairmont St_60 Min Volume.pdf: 336 hourly directional rows
+OK 63_R/ATR 63. US 9 (New Rd), btwn W Adams Ave & Black Horse Pike_60 Min Volume.pdf: 336 hourly directional rows
+OK 64_R/ATR 64. NJ 50, btwn AC Expressway & Route 322_60 Min Volume.pdf: 336 hourly directional rows
+OK 65_R/ATR 65. NJ 40 (Harding Hwy). NJ 40, btwn Babcock Road & Route 322_60 Min Volume.pdf: 336 hourly directional rows
+OK 66_R/ATR 66. CR 555 (Main Road), btwn E Oak Rd & E Wheat Rd_60 Min Volume.pdf: 336 hourly directional rows
+OK 67_T/ATR 67. NJ 45, btwn Acton Station Rd & Compromise Rd_60 Min Volume.pdf: 336 hourly directional rows
+OK 68_V/ATR 68. I-295, 1700 feet North of the Penns Grove Rest Stop_60 Minute.pdf: 336 hourly directional rows
+OK 69_V/ATR 69. Route 130, 600 feet North of Sakima Country Club_60 Minute.pdf: 336 hourly directional rows
+OK 70_R/ATR 70. NJ 40 (Harding Hwy), btwn Route 581 & Slabtown Road_60 Min Volume.pdf: 336 hourly directional rows
+OK 71_R/ATR 71. NJ 49 (Shiloh Pike), btwn Barretts Run Rd & Park Dr_60 Min Volume.pdf: 336 hourly directional rows
+OK 72_R/ATR 72. Route 9 (Shore Rd), btwn S Delsea Dr & N Wildwood Blvd_60 Min Volume.pdf: 336 hourly directional rows
+OK 73_R/ATR 73. Route 9 (Shore Rd), btwn Avalon Blvd & Sea Isle Blvd_60 Min Volume.pdf: 336 hourly directional rows
+OK 74_R/ATR 74. NJ 47, btwn Capy May 628 & Route 83_60 Min Volume.pdf: 336 hourly directional rows
+OK 75_R/ATR 75. NJ 47, btwn Front Street & Route 347_60 Min Volume.pdf: 336 hourly directional rows
+OK 76_V/ATR 76. Black Horse Pike, Out front of Wawa_60 Minute.pdf: 336 hourly directional rows
+OK 77_R/ATR 77. Wrangleboro Road, btwn AC Expressway & Rt 563 (Tilton Rd)_60 Min Volume.pdf: 336 hourly directional rows
+OK 78_V/ATR 78. Brigantine Boulevard, 250 feet South of Shore Design & Development_60 Minute.pdf: 336 hourly directional rows
+OK 79_R/ATR 79. Longport Blvd, btwn Seaview Dr & Sunset Ave_60 Min Volume.pdf: 336 hourly directional rows
+OK 80_V/ATR 80. NJ 109 Cape May Canal Bridge, 950 feet South of bridge_60 Minute.pdf: 336 hourly directional rows
+Files: 71; hourly rows: 23180; directional days: 968; conflicts: 0
+Conflicting hours excluded. Missing hours stay blank. H01 = 00:00-01:00. Total sums available hours only.
+All Classes totals are retained as printed, including bicycles where the provider includes them.

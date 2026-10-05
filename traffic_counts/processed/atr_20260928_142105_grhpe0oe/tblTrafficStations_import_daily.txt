@@ -1,0 +1,177 @@
+﻿County	StationID	FirstDate	LastDate	RecordsLoaded	DaysCollected	StationType	Route	Description	CountyOrder
+	CR 601, Avalon Boulevard, just East of GSP NB Exit 13 Ramps	05/15/2026 12:00:00 AM	05/16/2026 12:00:00 AM	144	1	ATR		ATR 1. CR 601, Avalon Boulevard, just East of GSP NB Exit 13 Ramps	
+	CR 601, Avalon Boulevard, just East of GSP NB Exit 13 Ramps	05/16/2026 12:00:00 AM	05/17/2026 12:00:00 AM	144	1	ATR		ATR 1. CR 601, Avalon Boulevard, just East of GSP NB Exit 13 Ramps	
+	CR 601, Avalon Boulevard, just East of GSP NB Exit 13 Ramps	05/17/2026 12:00:00 AM	05/18/2026 12:00:00 AM	144	1	ATR		ATR 1. CR 601, Avalon Boulevard, just East of GSP NB Exit 13 Ramps	
+	CR 601, Avalon Boulevard, just East of GSP NB Exit 13 Ramps	05/18/2026 12:00:00 AM	05/19/2026 12:00:00 AM	144	1	ATR		ATR 1. CR 601, Avalon Boulevard, just East of GSP NB Exit 13 Ramps	
+	CR 601, Avalon Boulevard, just East of GSP NB Exit 13 Ramps	05/19/2026 12:00:00 AM	05/20/2026 12:00:00 AM	138	1	ATR		ATR 1. CR 601, Avalon Boulevard, just East of GSP NB Exit 13 Ramps	
+	CR 601, Avalon Boulevard, just East of GSP NB Exit 13 Ramps	05/20/2026 12:00:00 AM	05/21/2026 12:00:00 AM	144	1	ATR		ATR 1. CR 601, Avalon Boulevard, just East of GSP NB Exit 13 Ramps	
+	CR 601, Avalon Boulevard, just East of GSP NB Exit 13 Ramps	05/21/2026 12:00:00 AM	05/22/2026 12:00:00 AM	144	1	ATR		ATR 1. CR 601, Avalon Boulevard, just East of GSP NB Exit 13 Ramps	
+	CR 601, Avalon Boulevard, just East of GSP NB Exit 13 Ramps	05/22/2026 12:00:00 AM	05/23/2026 12:00:00 AM	6	1	ATR		ATR 1. CR 601, Avalon Boulevard, just East of GSP NB Exit 13 Ramps	
+	Deliah Road, near Wawa & Southern Driveway	05/05/2026 12:00:00 AM	05/06/2026 12:00:00 AM	144	1	ATR		ATR 5. Deliah Road, near Wawa & Southern Driveway	
+	Deliah Road, near Wawa & Southern Driveway	05/06/2026 12:00:00 AM	05/07/2026 12:00:00 AM	144	1	ATR		ATR 5. Deliah Road, near Wawa & Southern Driveway	
+	Deliah Road, near Wawa & Southern Driveway	05/07/2026 12:00:00 AM	05/08/2026 12:00:00 AM	144	1	ATR		ATR 5. Deliah Road, near Wawa & Southern Driveway	
+	Deliah Road, near Wawa & Southern Driveway	05/08/2026 12:00:00 AM	05/09/2026 12:00:00 AM	144	1	ATR		ATR 5. Deliah Road, near Wawa & Southern Driveway	
+	Deliah Road, near Wawa & Southern Driveway	05/09/2026 12:00:00 AM	05/10/2026 12:00:00 AM	144	1	ATR		ATR 5. Deliah Road, near Wawa & Southern Driveway	
+	Deliah Road, near Wawa & Southern Driveway	05/10/2026 12:00:00 AM	05/11/2026 12:00:00 AM	144	1	ATR		ATR 5. Deliah Road, near Wawa & Southern Driveway	
+	Deliah Road, near Wawa & Southern Driveway	05/11/2026 12:00:00 AM	05/12/2026 12:00:00 AM	144	1	ATR		ATR 5. Deliah Road, near Wawa & Southern Driveway	
+	US 322, Black Horse Pike, 500 feet East of Palace Restaurant & Outfitters	05/06/2026 12:00:00 AM	05/07/2026 12:00:00 AM	144	1	ATR		ATR 11. US 322, Black Horse Pike, 500 feet East of Palace Restaurant & Outfitters	
+	US 322, Black Horse Pike, 500 feet East of Palace Restaurant & Outfitters	05/07/2026 12:00:00 AM	05/08/2026 12:00:00 AM	144	1	ATR		ATR 11. US 322, Black Horse Pike, 500 feet East of Palace Restaurant & Outfitters	
+	US 322, Black Horse Pike, 500 feet East of Palace Restaurant & Outfitters	05/08/2026 12:00:00 AM	05/09/2026 12:00:00 AM	144	1	ATR		ATR 11. US 322, Black Horse Pike, 500 feet East of Palace Restaurant & Outfitters	
+	US 322, Black Horse Pike, 500 feet East of Palace Restaurant & Outfitters	05/09/2026 12:00:00 AM	05/10/2026 12:00:00 AM	144	1	ATR		ATR 11. US 322, Black Horse Pike, 500 feet East of Palace Restaurant & Outfitters	
+	US 322, Black Horse Pike, 500 feet East of Palace Restaurant & Outfitters	05/10/2026 12:00:00 AM	05/11/2026 12:00:00 AM	144	1	ATR		ATR 11. US 322, Black Horse Pike, 500 feet East of Palace Restaurant & Outfitters	
+	US 322, Black Horse Pike, 500 feet East of Palace Restaurant & Outfitters	05/11/2026 12:00:00 AM	05/12/2026 12:00:00 AM	144	1	ATR		ATR 11. US 322, Black Horse Pike, 500 feet East of Palace Restaurant & Outfitters	
+	US 322, Black Horse Pike, 500 feet East of Palace Restaurant & Outfitters	05/12/2026 12:00:00 AM	05/13/2026 12:00:00 AM	144	1	ATR		ATR 11. US 322, Black Horse Pike, 500 feet East of Palace Restaurant & Outfitters	
+	US 30, White Horse Pike, just North of Exquisite Events Resort	05/05/2026 12:00:00 AM	05/06/2026 12:00:00 AM	144	1	ATR		ATR 16. US 30, White Horse Pike, just North of Exquisite Events Resort	
+	US 30, White Horse Pike, just North of Exquisite Events Resort	05/06/2026 12:00:00 AM	05/07/2026 12:00:00 AM	144	1	ATR		ATR 16. US 30, White Horse Pike, just North of Exquisite Events Resort	
+	US 30, White Horse Pike, just North of Exquisite Events Resort	05/07/2026 12:00:00 AM	05/08/2026 12:00:00 AM	144	1	ATR		ATR 16. US 30, White Horse Pike, just North of Exquisite Events Resort	
+	US 30, White Horse Pike, just North of Exquisite Events Resort	05/08/2026 12:00:00 AM	05/09/2026 12:00:00 AM	144	1	ATR		ATR 16. US 30, White Horse Pike, just North of Exquisite Events Resort	
+	US 30, White Horse Pike, just North of Exquisite Events Resort	05/09/2026 12:00:00 AM	05/10/2026 12:00:00 AM	144	1	ATR		ATR 16. US 30, White Horse Pike, just North of Exquisite Events Resort	
+	US 30, White Horse Pike, just North of Exquisite Events Resort	05/10/2026 12:00:00 AM	05/11/2026 12:00:00 AM	144	1	ATR		ATR 16. US 30, White Horse Pike, just North of Exquisite Events Resort	
+	US 30, White Horse Pike, just North of Exquisite Events Resort	05/11/2026 12:00:00 AM	05/12/2026 12:00:00 AM	144	1	ATR		ATR 16. US 30, White Horse Pike, just North of Exquisite Events Resort	
+	Route 55, south of Americold Logistics	05/05/2026 12:00:00 AM	05/06/2026 12:00:00 AM	144	1	ATR		ATR 22. Route 55, south of Americold Logistics	
+	Route 55, south of Americold Logistics	05/06/2026 12:00:00 AM	05/07/2026 12:00:00 AM	144	1	ATR		ATR 22. Route 55, south of Americold Logistics	
+	Route 55, south of Americold Logistics	05/07/2026 12:00:00 AM	05/08/2026 12:00:00 AM	144	1	ATR		ATR 22. Route 55, south of Americold Logistics	
+	Route 55, south of Americold Logistics	05/08/2026 12:00:00 AM	05/09/2026 12:00:00 AM	144	1	ATR		ATR 22. Route 55, south of Americold Logistics	
+	Route 55, south of Americold Logistics	05/09/2026 12:00:00 AM	05/10/2026 12:00:00 AM	144	1	ATR		ATR 22. Route 55, south of Americold Logistics	
+	Route 55, south of Americold Logistics	05/10/2026 12:00:00 AM	05/11/2026 12:00:00 AM	144	1	ATR		ATR 22. Route 55, south of Americold Logistics	
+	Route 55, south of Americold Logistics	05/11/2026 12:00:00 AM	05/12/2026 12:00:00 AM	144	1	ATR		ATR 22. Route 55, south of Americold Logistics	
+	Fairmount Avenue, between California Avenue & Iowa Avenue	05/02/2026 12:00:00 AM	05/03/2026 12:00:00 AM	144	1	ATR		ATR 27. Fairmount Avenue, between California Avenue & Iowa Avenue	
+	Fairmount Avenue, between California Avenue & Iowa Avenue	05/03/2026 12:00:00 AM	05/04/2026 12:00:00 AM	144	1	ATR		ATR 27. Fairmount Avenue, between California Avenue & Iowa Avenue	
+	Fairmount Avenue, between California Avenue & Iowa Avenue	05/04/2026 12:00:00 AM	05/05/2026 12:00:00 AM	144	1	ATR		ATR 27. Fairmount Avenue, between California Avenue & Iowa Avenue	
+	Fairmount Avenue, between California Avenue & Iowa Avenue	05/05/2026 12:00:00 AM	05/06/2026 12:00:00 AM	144	1	ATR		ATR 27. Fairmount Avenue, between California Avenue & Iowa Avenue	
+	Fairmount Avenue, between California Avenue & Iowa Avenue	05/06/2026 12:00:00 AM	05/07/2026 12:00:00 AM	144	1	ATR		ATR 27. Fairmount Avenue, between California Avenue & Iowa Avenue	
+	Fairmount Avenue, between California Avenue & Iowa Avenue	05/07/2026 12:00:00 AM	05/08/2026 12:00:00 AM	144	1	ATR		ATR 27. Fairmount Avenue, between California Avenue & Iowa Avenue	
+	Fairmount Avenue, between California Avenue & Iowa Avenue	05/08/2026 12:00:00 AM	05/09/2026 12:00:00 AM	144	1	ATR		ATR 27. Fairmount Avenue, between California Avenue & Iowa Avenue	
+	Arctic Avenue, between California Avenue & Iowa Avenue	05/02/2026 12:00:00 AM	05/03/2026 12:00:00 AM	144	1	ATR		ATR 28. Arctic Avenue, between California Avenue & Iowa Avenue	
+	Arctic Avenue, between California Avenue & Iowa Avenue	05/03/2026 12:00:00 AM	05/04/2026 12:00:00 AM	144	1	ATR		ATR 28. Arctic Avenue, between California Avenue & Iowa Avenue	
+	Arctic Avenue, between California Avenue & Iowa Avenue	05/04/2026 12:00:00 AM	05/05/2026 12:00:00 AM	144	1	ATR		ATR 28. Arctic Avenue, between California Avenue & Iowa Avenue	
+	Arctic Avenue, between California Avenue & Iowa Avenue	05/05/2026 12:00:00 AM	05/06/2026 12:00:00 AM	144	1	ATR		ATR 28. Arctic Avenue, between California Avenue & Iowa Avenue	
+	Arctic Avenue, between California Avenue & Iowa Avenue	05/06/2026 12:00:00 AM	05/07/2026 12:00:00 AM	144	1	ATR		ATR 28. Arctic Avenue, between California Avenue & Iowa Avenue	
+	Arctic Avenue, between California Avenue & Iowa Avenue	05/07/2026 12:00:00 AM	05/08/2026 12:00:00 AM	144	1	ATR		ATR 28. Arctic Avenue, between California Avenue & Iowa Avenue	
+	Arctic Avenue, between California Avenue & Iowa Avenue	05/08/2026 12:00:00 AM	05/09/2026 12:00:00 AM	144	1	ATR		ATR 28. Arctic Avenue, between California Avenue & Iowa Avenue	
+	Ventnor Avenue, between Trenton Avenue & Black Horse Pike	05/02/2026 12:00:00 AM	05/03/2026 12:00:00 AM	144	1	ATR		ATR 29. Ventnor Avenue, between Trenton Avenue & Black Horse Pike	
+	Ventnor Avenue, between Trenton Avenue & Black Horse Pike	05/03/2026 12:00:00 AM	05/04/2026 12:00:00 AM	144	1	ATR		ATR 29. Ventnor Avenue, between Trenton Avenue & Black Horse Pike	
+	Ventnor Avenue, between Trenton Avenue & Black Horse Pike	05/04/2026 12:00:00 AM	05/05/2026 12:00:00 AM	144	1	ATR		ATR 29. Ventnor Avenue, between Trenton Avenue & Black Horse Pike	
+	Ventnor Avenue, between Trenton Avenue & Black Horse Pike	05/05/2026 12:00:00 AM	05/06/2026 12:00:00 AM	144	1	ATR		ATR 29. Ventnor Avenue, between Trenton Avenue & Black Horse Pike	
+	Ventnor Avenue, between Trenton Avenue & Black Horse Pike	05/06/2026 12:00:00 AM	05/07/2026 12:00:00 AM	144	1	ATR		ATR 29. Ventnor Avenue, between Trenton Avenue & Black Horse Pike	
+	Ventnor Avenue, between Trenton Avenue & Black Horse Pike	05/07/2026 12:00:00 AM	05/08/2026 12:00:00 AM	144	1	ATR		ATR 29. Ventnor Avenue, between Trenton Avenue & Black Horse Pike	
+	Ventnor Avenue, between Trenton Avenue & Black Horse Pike	05/08/2026 12:00:00 AM	05/09/2026 12:00:00 AM	144	1	ATR		ATR 29. Ventnor Avenue, between Trenton Avenue & Black Horse Pike	
+	Atlantic Avenue, between Roosevelt Place & Black Horse Pike	05/02/2026 12:00:00 AM	05/03/2026 12:00:00 AM	144	1	ATR		ATR 30. Atlantic Avenue, between Roosevelt Place & Black Horse Pike	
+	Atlantic Avenue, between Roosevelt Place & Black Horse Pike	05/03/2026 12:00:00 AM	05/04/2026 12:00:00 AM	144	1	ATR		ATR 30. Atlantic Avenue, between Roosevelt Place & Black Horse Pike	
+	Atlantic Avenue, between Roosevelt Place & Black Horse Pike	05/04/2026 12:00:00 AM	05/05/2026 12:00:00 AM	144	1	ATR		ATR 30. Atlantic Avenue, between Roosevelt Place & Black Horse Pike	
+	Atlantic Avenue, between Roosevelt Place & Black Horse Pike	05/05/2026 12:00:00 AM	05/06/2026 12:00:00 AM	144	1	ATR		ATR 30. Atlantic Avenue, between Roosevelt Place & Black Horse Pike	
+	Atlantic Avenue, between Roosevelt Place & Black Horse Pike	05/06/2026 12:00:00 AM	05/07/2026 12:00:00 AM	144	1	ATR		ATR 30. Atlantic Avenue, between Roosevelt Place & Black Horse Pike	
+	Atlantic Avenue, between Roosevelt Place & Black Horse Pike	05/07/2026 12:00:00 AM	05/08/2026 12:00:00 AM	144	1	ATR		ATR 30. Atlantic Avenue, between Roosevelt Place & Black Horse Pike	
+	Atlantic Avenue, between Roosevelt Place & Black Horse Pike	05/08/2026 12:00:00 AM	05/09/2026 12:00:00 AM	144	1	ATR		ATR 30. Atlantic Avenue, between Roosevelt Place & Black Horse Pike	
+	NJ 47, Delsea Drive, OutFront Pier 47 Marina	05/15/2026 12:00:00 AM	05/16/2026 12:00:00 AM	144	1	ATR		ATR 32. NJ 47, Delsea Drive, OutFront Pier 47 Marina	
+	NJ 47, Delsea Drive, OutFront Pier 47 Marina	05/16/2026 12:00:00 AM	05/17/2026 12:00:00 AM	144	1	ATR		ATR 32. NJ 47, Delsea Drive, OutFront Pier 47 Marina	
+	NJ 47, Delsea Drive, OutFront Pier 47 Marina	05/17/2026 12:00:00 AM	05/18/2026 12:00:00 AM	144	1	ATR		ATR 32. NJ 47, Delsea Drive, OutFront Pier 47 Marina	
+	NJ 47, Delsea Drive, OutFront Pier 47 Marina	05/18/2026 12:00:00 AM	05/19/2026 12:00:00 AM	144	1	ATR		ATR 32. NJ 47, Delsea Drive, OutFront Pier 47 Marina	
+	NJ 47, Delsea Drive, OutFront Pier 47 Marina	05/19/2026 12:00:00 AM	05/20/2026 12:00:00 AM	144	1	ATR		ATR 32. NJ 47, Delsea Drive, OutFront Pier 47 Marina	
+	NJ 47, Delsea Drive, OutFront Pier 47 Marina	05/20/2026 12:00:00 AM	05/21/2026 12:00:00 AM	144	1	ATR		ATR 32. NJ 47, Delsea Drive, OutFront Pier 47 Marina	
+	NJ 47, Delsea Drive, OutFront Pier 47 Marina	05/21/2026 12:00:00 AM	05/22/2026 12:00:00 AM	144	1	ATR		ATR 32. NJ 47, Delsea Drive, OutFront Pier 47 Marina	
+	NJ 147, N Wildwood Boulevard, West of the Old Wildwood Boulevard Jug Handle	05/15/2026 12:00:00 AM	05/16/2026 12:00:00 AM	144	1	ATR		ATR 33. NJ 147, N Wildwood Boulevard, West of the Old Wildwood Boulevard Jug Handle	
+	NJ 147, N Wildwood Boulevard, West of the Old Wildwood Boulevard Jug Handle	05/16/2026 12:00:00 AM	05/17/2026 12:00:00 AM	144	1	ATR		ATR 33. NJ 147, N Wildwood Boulevard, West of the Old Wildwood Boulevard Jug Handle	
+	NJ 147, N Wildwood Boulevard, West of the Old Wildwood Boulevard Jug Handle	05/17/2026 12:00:00 AM	05/18/2026 12:00:00 AM	144	1	ATR		ATR 33. NJ 147, N Wildwood Boulevard, West of the Old Wildwood Boulevard Jug Handle	
+	NJ 147, N Wildwood Boulevard, West of the Old Wildwood Boulevard Jug Handle	05/18/2026 12:00:00 AM	05/19/2026 12:00:00 AM	144	1	ATR		ATR 33. NJ 147, N Wildwood Boulevard, West of the Old Wildwood Boulevard Jug Handle	
+	NJ 147, N Wildwood Boulevard, West of the Old Wildwood Boulevard Jug Handle	05/19/2026 12:00:00 AM	05/20/2026 12:00:00 AM	144	1	ATR		ATR 33. NJ 147, N Wildwood Boulevard, West of the Old Wildwood Boulevard Jug Handle	
+	NJ 147, N Wildwood Boulevard, West of the Old Wildwood Boulevard Jug Handle	05/20/2026 12:00:00 AM	05/21/2026 12:00:00 AM	144	1	ATR		ATR 33. NJ 147, N Wildwood Boulevard, West of the Old Wildwood Boulevard Jug Handle	
+	NJ 147, N Wildwood Boulevard, West of the Old Wildwood Boulevard Jug Handle	05/21/2026 12:00:00 AM	05/22/2026 12:00:00 AM	144	1	ATR		ATR 33. NJ 147, N Wildwood Boulevard, West of the Old Wildwood Boulevard Jug Handle	
+	NJ 52, Howard South Stanton Memorial	05/06/2026 12:00:00 AM	05/07/2026 12:00:00 AM	144	1	ATR		ATR 36. NJ 52, Howard South Stanton Memorial	
+	NJ 52, Howard South Stanton Memorial	05/07/2026 12:00:00 AM	05/08/2026 12:00:00 AM	144	1	ATR		ATR 36. NJ 52, Howard South Stanton Memorial	
+	NJ 52, Howard South Stanton Memorial	05/08/2026 12:00:00 AM	05/09/2026 12:00:00 AM	144	1	ATR		ATR 36. NJ 52, Howard South Stanton Memorial	
+	NJ 52, Howard South Stanton Memorial	05/09/2026 12:00:00 AM	05/10/2026 12:00:00 AM	144	1	ATR		ATR 36. NJ 52, Howard South Stanton Memorial	
+	NJ 52, Howard South Stanton Memorial	05/10/2026 12:00:00 AM	05/11/2026 12:00:00 AM	144	1	ATR		ATR 36. NJ 52, Howard South Stanton Memorial	
+	NJ 52, Howard South Stanton Memorial	05/11/2026 12:00:00 AM	05/12/2026 12:00:00 AM	144	1	ATR		ATR 36. NJ 52, Howard South Stanton Memorial	
+	NJ 52, Howard South Stanton Memorial	05/12/2026 12:00:00 AM	05/13/2026 12:00:00 AM	144	1	ATR		ATR 36. NJ 52, Howard South Stanton Memorial	
+	Route 40 /322, between Frankfort Court & Toulon Avenue	05/07/2026 12:00:00 AM	05/08/2026 12:00:00 AM	144	1	ATR		ATR 38. Route 40 /322, between Frankfort Court & Toulon Avenue	
+	Route 40 /322, between Frankfort Court & Toulon Avenue	05/08/2026 12:00:00 AM	05/09/2026 12:00:00 AM	144	1	ATR		ATR 38. Route 40 /322, between Frankfort Court & Toulon Avenue	
+	Route 40 /322, between Frankfort Court & Toulon Avenue	05/09/2026 12:00:00 AM	05/10/2026 12:00:00 AM	144	1	ATR		ATR 38. Route 40 /322, between Frankfort Court & Toulon Avenue	
+	Route 40 /322, between Frankfort Court & Toulon Avenue	05/10/2026 12:00:00 AM	05/11/2026 12:00:00 AM	144	1	ATR		ATR 38. Route 40 /322, between Frankfort Court & Toulon Avenue	
+	Route 40 /322, between Frankfort Court & Toulon Avenue	05/11/2026 12:00:00 AM	05/12/2026 12:00:00 AM	144	1	ATR		ATR 38. Route 40 /322, between Frankfort Court & Toulon Avenue	
+	Route 40 /322, between Frankfort Court & Toulon Avenue	05/12/2026 12:00:00 AM	05/13/2026 12:00:00 AM	144	1	ATR		ATR 38. Route 40 /322, between Frankfort Court & Toulon Avenue	
+	Route 40 /322, between Frankfort Court & Toulon Avenue	05/13/2026 12:00:00 AM	05/14/2026 12:00:00 AM	144	1	ATR		ATR 38. Route 40 /322, between Frankfort Court & Toulon Avenue	
+	US 30, 1.5 miles Southeast of the Royal Lodge Hotel	05/02/2026 12:00:00 AM	05/03/2026 12:00:00 AM	144	1	ATR		ATR 39. US 30, 1.5 miles Southeast of the Royal Lodge Hotel	
+	US 30, 1.5 miles Southeast of the Royal Lodge Hotel	05/03/2026 12:00:00 AM	05/04/2026 12:00:00 AM	144	1	ATR		ATR 39. US 30, 1.5 miles Southeast of the Royal Lodge Hotel	
+	US 30, 1.5 miles Southeast of the Royal Lodge Hotel	05/04/2026 12:00:00 AM	05/05/2026 12:00:00 AM	144	1	ATR		ATR 39. US 30, 1.5 miles Southeast of the Royal Lodge Hotel	
+	US 30, 1.5 miles Southeast of the Royal Lodge Hotel	05/05/2026 12:00:00 AM	05/06/2026 12:00:00 AM	144	1	ATR		ATR 39. US 30, 1.5 miles Southeast of the Royal Lodge Hotel	
+	US 30, 1.5 miles Southeast of the Royal Lodge Hotel	05/06/2026 12:00:00 AM	05/07/2026 12:00:00 AM	144	1	ATR		ATR 39. US 30, 1.5 miles Southeast of the Royal Lodge Hotel	
+	US 30, 1.5 miles Southeast of the Royal Lodge Hotel	05/07/2026 12:00:00 AM	05/08/2026 12:00:00 AM	144	1	ATR		ATR 39. US 30, 1.5 miles Southeast of the Royal Lodge Hotel	
+	US 30, 1.5 miles Southeast of the Royal Lodge Hotel	05/08/2026 12:00:00 AM	05/09/2026 12:00:00 AM	144	1	ATR		ATR 39. US 30, 1.5 miles Southeast of the Royal Lodge Hotel	
+	NJ 49, W Main Street, between Cedar Street & Riverside Drive	05/05/2026 12:00:00 AM	05/06/2026 12:00:00 AM	144	1	ATR		ATR 40. NJ 49, W Main Street, between Cedar Street & Riverside Drive	
+	NJ 49, W Main Street, between Cedar Street & Riverside Drive	05/06/2026 12:00:00 AM	05/07/2026 12:00:00 AM	144	1	ATR		ATR 40. NJ 49, W Main Street, between Cedar Street & Riverside Drive	
+	NJ 49, W Main Street, between Cedar Street & Riverside Drive	05/07/2026 12:00:00 AM	05/08/2026 12:00:00 AM	144	1	ATR		ATR 40. NJ 49, W Main Street, between Cedar Street & Riverside Drive	
+	NJ 49, W Main Street, between Cedar Street & Riverside Drive	05/08/2026 12:00:00 AM	05/09/2026 12:00:00 AM	144	1	ATR		ATR 40. NJ 49, W Main Street, between Cedar Street & Riverside Drive	
+	NJ 49, W Main Street, between Cedar Street & Riverside Drive	05/09/2026 12:00:00 AM	05/10/2026 12:00:00 AM	144	1	ATR		ATR 40. NJ 49, W Main Street, between Cedar Street & Riverside Drive	
+	NJ 49, W Main Street, between Cedar Street & Riverside Drive	05/10/2026 12:00:00 AM	05/11/2026 12:00:00 AM	144	1	ATR		ATR 40. NJ 49, W Main Street, between Cedar Street & Riverside Drive	
+	NJ 49, W Main Street, between Cedar Street & Riverside Drive	05/11/2026 12:00:00 AM	05/12/2026 12:00:00 AM	144	1	ATR		ATR 40. NJ 49, W Main Street, between Cedar Street & Riverside Drive	
+	NJ 49, W Broad Street, between Water Street & Laurel Street	05/05/2026 12:00:00 AM	05/06/2026 12:00:00 AM	144	1	ATR		ATR 41. NJ 49, W Broad Street, between Water Street & Laurel Street	
+	NJ 49, W Broad Street, between Water Street & Laurel Street	05/06/2026 12:00:00 AM	05/07/2026 12:00:00 AM	144	1	ATR		ATR 41. NJ 49, W Broad Street, between Water Street & Laurel Street	
+	NJ 49, W Broad Street, between Water Street & Laurel Street	05/07/2026 12:00:00 AM	05/08/2026 12:00:00 AM	144	1	ATR		ATR 41. NJ 49, W Broad Street, between Water Street & Laurel Street	
+	NJ 49, W Broad Street, between Water Street & Laurel Street	05/08/2026 12:00:00 AM	05/09/2026 12:00:00 AM	144	1	ATR		ATR 41. NJ 49, W Broad Street, between Water Street & Laurel Street	
+	NJ 49, W Broad Street, between Water Street & Laurel Street	05/09/2026 12:00:00 AM	05/10/2026 12:00:00 AM	144	1	ATR		ATR 41. NJ 49, W Broad Street, between Water Street & Laurel Street	
+	NJ 49, W Broad Street, between Water Street & Laurel Street	05/10/2026 12:00:00 AM	05/11/2026 12:00:00 AM	144	1	ATR		ATR 41. NJ 49, W Broad Street, between Water Street & Laurel Street	
+	NJ 49, W Broad Street, between Water Street & Laurel Street	05/11/2026 12:00:00 AM	05/12/2026 12:00:00 AM	144	1	ATR		ATR 41. NJ 49, W Broad Street, between Water Street & Laurel Street	
+	Ocean Drive Bridge, Outfront Malibu Dog Beach Lily	05/12/2026 12:00:00 AM	05/13/2026 12:00:00 AM	144	1	ATR		ATR 44. Ocean Drive Bridge, Outfront Malibu Dog Beach Lily	
+	Ocean Drive Bridge, Outfront Malibu Dog Beach Lily	05/13/2026 12:00:00 AM	05/14/2026 12:00:00 AM	144	1	ATR		ATR 44. Ocean Drive Bridge, Outfront Malibu Dog Beach Lily	
+	Ocean Drive Bridge, Outfront Malibu Dog Beach Lily	05/14/2026 12:00:00 AM	05/15/2026 12:00:00 AM	144	1	ATR		ATR 44. Ocean Drive Bridge, Outfront Malibu Dog Beach Lily	
+	Ocean Drive Bridge, Outfront Malibu Dog Beach Lily	05/15/2026 12:00:00 AM	05/16/2026 12:00:00 AM	144	1	ATR		ATR 44. Ocean Drive Bridge, Outfront Malibu Dog Beach Lily	
+	Ocean Drive Bridge, Outfront Malibu Dog Beach Lily	05/16/2026 12:00:00 AM	05/17/2026 12:00:00 AM	144	1	ATR		ATR 44. Ocean Drive Bridge, Outfront Malibu Dog Beach Lily	
+	Ocean Drive Bridge, Outfront Malibu Dog Beach Lily	05/17/2026 12:00:00 AM	05/18/2026 12:00:00 AM	144	1	ATR		ATR 44. Ocean Drive Bridge, Outfront Malibu Dog Beach Lily	
+	Ocean Drive Bridge, Outfront Malibu Dog Beach Lily	05/18/2026 12:00:00 AM	05/19/2026 12:00:00 AM	144	1	ATR		ATR 44. Ocean Drive Bridge, Outfront Malibu Dog Beach Lily	
+	CR 601, Avalon Boulevard, Outfront Acme Markets	05/15/2026 12:00:00 AM	05/16/2026 12:00:00 AM	144	1	ATR		ATR 48. CR 601, Avalon Boulevard, Outfront Acme Markets	
+	CR 601, Avalon Boulevard, Outfront Acme Markets	05/16/2026 12:00:00 AM	05/17/2026 12:00:00 AM	144	1	ATR		ATR 48. CR 601, Avalon Boulevard, Outfront Acme Markets	
+	CR 601, Avalon Boulevard, Outfront Acme Markets	05/17/2026 12:00:00 AM	05/18/2026 12:00:00 AM	144	1	ATR		ATR 48. CR 601, Avalon Boulevard, Outfront Acme Markets	
+	CR 601, Avalon Boulevard, Outfront Acme Markets	05/18/2026 12:00:00 AM	05/19/2026 12:00:00 AM	144	1	ATR		ATR 48. CR 601, Avalon Boulevard, Outfront Acme Markets	
+	CR 601, Avalon Boulevard, Outfront Acme Markets	05/19/2026 12:00:00 AM	05/20/2026 12:00:00 AM	144	1	ATR		ATR 48. CR 601, Avalon Boulevard, Outfront Acme Markets	
+	CR 601, Avalon Boulevard, Outfront Acme Markets	05/20/2026 12:00:00 AM	05/21/2026 12:00:00 AM	144	1	ATR		ATR 48. CR 601, Avalon Boulevard, Outfront Acme Markets	
+	CR 601, Avalon Boulevard, Outfront Acme Markets	05/21/2026 12:00:00 AM	05/22/2026 12:00:00 AM	144	1	ATR		ATR 48. CR 601, Avalon Boulevard, Outfront Acme Markets	
+	Route 30, S White Horse Pike, 300 feet East of Korean United Methodist Church	05/05/2026 12:00:00 AM	05/06/2026 12:00:00 AM	144	1	ATR		ATR 56. Route 30, S White Horse Pike, 300 feet East of Korean United Methodist Church	
+	Route 30, S White Horse Pike, 300 feet East of Korean United Methodist Church	05/06/2026 12:00:00 AM	05/07/2026 12:00:00 AM	144	1	ATR		ATR 56. Route 30, S White Horse Pike, 300 feet East of Korean United Methodist Church	
+	Route 30, S White Horse Pike, 300 feet East of Korean United Methodist Church	05/07/2026 12:00:00 AM	05/08/2026 12:00:00 AM	144	1	ATR		ATR 56. Route 30, S White Horse Pike, 300 feet East of Korean United Methodist Church	
+	Route 30, S White Horse Pike, 300 feet East of Korean United Methodist Church	05/08/2026 12:00:00 AM	05/09/2026 12:00:00 AM	144	1	ATR		ATR 56. Route 30, S White Horse Pike, 300 feet East of Korean United Methodist Church	
+	Route 30, S White Horse Pike, 300 feet East of Korean United Methodist Church	05/09/2026 12:00:00 AM	05/10/2026 12:00:00 AM	144	1	ATR		ATR 56. Route 30, S White Horse Pike, 300 feet East of Korean United Methodist Church	
+	Route 30, S White Horse Pike, 300 feet East of Korean United Methodist Church	05/10/2026 12:00:00 AM	05/11/2026 12:00:00 AM	144	1	ATR		ATR 56. Route 30, S White Horse Pike, 300 feet East of Korean United Methodist Church	
+	Route 30, S White Horse Pike, 300 feet East of Korean United Methodist Church	05/11/2026 12:00:00 AM	05/12/2026 12:00:00 AM	144	1	ATR		ATR 56. Route 30, S White Horse Pike, 300 feet East of Korean United Methodist Church	
+	I-295, 1700 feet North of the Penns Grove Rest Stop	05/13/2026 12:00:00 AM	05/14/2026 12:00:00 AM	144	1	ATR		ATR 68. I-295, 1700 feet North of the Penns Grove Rest Stop	
+	I-295, 1700 feet North of the Penns Grove Rest Stop	05/14/2026 12:00:00 AM	05/15/2026 12:00:00 AM	144	1	ATR		ATR 68. I-295, 1700 feet North of the Penns Grove Rest Stop	
+	I-295, 1700 feet North of the Penns Grove Rest Stop	05/15/2026 12:00:00 AM	05/16/2026 12:00:00 AM	144	1	ATR		ATR 68. I-295, 1700 feet North of the Penns Grove Rest Stop	
+	I-295, 1700 feet North of the Penns Grove Rest Stop	05/16/2026 12:00:00 AM	05/17/2026 12:00:00 AM	144	1	ATR		ATR 68. I-295, 1700 feet North of the Penns Grove Rest Stop	
+	I-295, 1700 feet North of the Penns Grove Rest Stop	05/17/2026 12:00:00 AM	05/18/2026 12:00:00 AM	144	1	ATR		ATR 68. I-295, 1700 feet North of the Penns Grove Rest Stop	
+	I-295, 1700 feet North of the Penns Grove Rest Stop	05/18/2026 12:00:00 AM	05/19/2026 12:00:00 AM	144	1	ATR		ATR 68. I-295, 1700 feet North of the Penns Grove Rest Stop	
+	I-295, 1700 feet North of the Penns Grove Rest Stop	05/19/2026 12:00:00 AM	05/20/2026 12:00:00 AM	144	1	ATR		ATR 68. I-295, 1700 feet North of the Penns Grove Rest Stop	
+	Route 130, 600 feet North of Sakima Country Club	05/06/2026 12:00:00 AM	05/07/2026 12:00:00 AM	144	1	ATR		ATR 69. Route 130, 600 feet North of Sakima Country Club	
+	Route 130, 600 feet North of Sakima Country Club	05/07/2026 12:00:00 AM	05/08/2026 12:00:00 AM	144	1	ATR		ATR 69. Route 130, 600 feet North of Sakima Country Club	
+	Route 130, 600 feet North of Sakima Country Club	05/08/2026 12:00:00 AM	05/09/2026 12:00:00 AM	144	1	ATR		ATR 69. Route 130, 600 feet North of Sakima Country Club	
+	Route 130, 600 feet North of Sakima Country Club	05/09/2026 12:00:00 AM	05/10/2026 12:00:00 AM	144	1	ATR		ATR 69. Route 130, 600 feet North of Sakima Country Club	
+	Route 130, 600 feet North of Sakima Country Club	05/10/2026 12:00:00 AM	05/11/2026 12:00:00 AM	144	1	ATR		ATR 69. Route 130, 600 feet North of Sakima Country Club	
+	Route 130, 600 feet North of Sakima Country Club	05/11/2026 12:00:00 AM	05/12/2026 12:00:00 AM	144	1	ATR		ATR 69. Route 130, 600 feet North of Sakima Country Club	
+	Route 130, 600 feet North of Sakima Country Club	05/12/2026 12:00:00 AM	05/13/2026 12:00:00 AM	144	1	ATR		ATR 69. Route 130, 600 feet North of Sakima Country Club	
+	Black Horse Pike, Out front of Wawa	05/06/2026 12:00:00 AM	05/07/2026 12:00:00 AM	144	1	ATR		ATR 76. Black Horse Pike, Out front of Wawa	
+	Black Horse Pike, Out front of Wawa	05/07/2026 12:00:00 AM	05/08/2026 12:00:00 AM	144	1	ATR		ATR 76. Black Horse Pike, Out front of Wawa	
+	Black Horse Pike, Out front of Wawa	05/08/2026 12:00:00 AM	05/09/2026 12:00:00 AM	144	1	ATR		ATR 76. Black Horse Pike, Out front of Wawa	
+	Black Horse Pike, Out front of Wawa	05/09/2026 12:00:00 AM	05/10/2026 12:00:00 AM	144	1	ATR		ATR 76. Black Horse Pike, Out front of Wawa	
+	Black Horse Pike, Out front of Wawa	05/10/2026 12:00:00 AM	05/11/2026 12:00:00 AM	144	1	ATR		ATR 76. Black Horse Pike, Out front of Wawa	
+	Black Horse Pike, Out front of Wawa	05/11/2026 12:00:00 AM	05/12/2026 12:00:00 AM	144	1	ATR		ATR 76. Black Horse Pike, Out front of Wawa	
+	Black Horse Pike, Out front of Wawa	05/12/2026 12:00:00 AM	05/13/2026 12:00:00 AM	144	1	ATR		ATR 76. Black Horse Pike, Out front of Wawa	
+	Brigantine Boulevard, 250 feet South of Shore Design & Development	05/02/2026 12:00:00 AM	05/03/2026 12:00:00 AM	144	1	ATR		ATR 78. Brigantine Boulevard, 250 feet South of Shore Design & Development	
+	Brigantine Boulevard, 250 feet South of Shore Design & Development	05/03/2026 12:00:00 AM	05/04/2026 12:00:00 AM	144	1	ATR		ATR 78. Brigantine Boulevard, 250 feet South of Shore Design & Development	
+	Brigantine Boulevard, 250 feet South of Shore Design & Development	05/04/2026 12:00:00 AM	05/05/2026 12:00:00 AM	144	1	ATR		ATR 78. Brigantine Boulevard, 250 feet South of Shore Design & Development	
+	Brigantine Boulevard, 250 feet South of Shore Design & Development	05/05/2026 12:00:00 AM	05/06/2026 12:00:00 AM	144	1	ATR		ATR 78. Brigantine Boulevard, 250 feet South of Shore Design & Development	
+	Brigantine Boulevard, 250 feet South of Shore Design & Development	05/06/2026 12:00:00 AM	05/07/2026 12:00:00 AM	144	1	ATR		ATR 78. Brigantine Boulevard, 250 feet South of Shore Design & Development	
+	Brigantine Boulevard, 250 feet South of Shore Design & Development	05/07/2026 12:00:00 AM	05/08/2026 12:00:00 AM	144	1	ATR		ATR 78. Brigantine Boulevard, 250 feet South of Shore Design & Development	
+	Brigantine Boulevard, 250 feet South of Shore Design & Development	05/08/2026 12:00:00 AM	05/09/2026 12:00:00 AM	144	1	ATR		ATR 78. Brigantine Boulevard, 250 feet South of Shore Design & Development	
+	NJ 109 Cape May Canal Bridge, 950 feet South of bridge	05/15/2026 12:00:00 AM	05/16/2026 12:00:00 AM	144	1	ATR		ATR 80. NJ 109 Cape May Canal Bridge, 950 feet South of bridge	
+	NJ 109 Cape May Canal Bridge, 950 feet South of bridge	05/16/2026 12:00:00 AM	05/17/2026 12:00:00 AM	144	1	ATR		ATR 80. NJ 109 Cape May Canal Bridge, 950 feet South of bridge	
+	NJ 109 Cape May Canal Bridge, 950 feet South of bridge	05/17/2026 12:00:00 AM	05/18/2026 12:00:00 AM	144	1	ATR		ATR 80. NJ 109 Cape May Canal Bridge, 950 feet South of bridge	
+	NJ 109 Cape May Canal Bridge, 950 feet South of bridge	05/18/2026 12:00:00 AM	05/19/2026 12:00:00 AM	144	1	ATR		ATR 80. NJ 109 Cape May Canal Bridge, 950 feet South of bridge	
+	NJ 109 Cape May Canal Bridge, 950 feet South of bridge	05/19/2026 12:00:00 AM	05/20/2026 12:00:00 AM	144	1	ATR		ATR 80. NJ 109 Cape May Canal Bridge, 950 feet South of bridge	
+	NJ 109 Cape May Canal Bridge, 950 feet South of bridge	05/20/2026 12:00:00 AM	05/21/2026 12:00:00 AM	144	1	ATR		ATR 80. NJ 109 Cape May Canal Bridge, 950 feet South of bridge	
+	NJ 109 Cape May Canal Bridge, 950 feet South of bridge	05/21/2026 12:00:00 AM	05/22/2026 12:00:00 AM	144	1	ATR		ATR 80. NJ 109 Cape May Canal Bridge, 950 feet South of bridge	
+	Deliah Road, near Wawa & Southern Driveway	05/05/2026 12:00:00 AM	05/06/2026 12:00:00 AM	144	1	ATR		ATR 5. Deliah Road, near Wawa & Southern Driveway	
+	Deliah Road, near Wawa & Southern Driveway	05/06/2026 12:00:00 AM	05/07/2026 12:00:00 AM	144	1	ATR		ATR 5. Deliah Road, near Wawa & Southern Driveway	
+	Deliah Road, near Wawa & Southern Driveway	05/07/2026 12:00:00 AM	05/08/2026 12:00:00 AM	144	1	ATR		ATR 5. Deliah Road, near Wawa & Southern Driveway	
+	Deliah Road, near Wawa & Southern Driveway	05/08/2026 12:00:00 AM	05/09/2026 12:00:00 AM	144	1	ATR		ATR 5. Deliah Road, near Wawa & Southern Driveway	
+	Deliah Road, near Wawa & Southern Driveway	05/09/2026 12:00:00 AM	05/10/2026 12:00:00 AM	144	1	ATR		ATR 5. Deliah Road, near Wawa & Southern Driveway	
+	Deliah Road, near Wawa & Southern Driveway	05/10/2026 12:00:00 AM	05/11/2026 12:00:00 AM	144	1	ATR		ATR 5. Deliah Road, near Wawa & Southern Driveway	
+	Deliah Road, near Wawa & Southern Driveway	05/11/2026 12:00:00 AM	05/12/2026 12:00:00 AM	144	1	ATR		ATR 5. Deliah Road, near Wawa & Southern Driveway	

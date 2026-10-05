@@ -1,0 +1,67 @@
+Source: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\input\02_May ATRs; workbooks: 31; VOID folders excluded.
+Length units unspecified; original labels preserved. Directions remain separate.
+[1/31] 03_R/ATR 3. E Mill Road, btwn Bay Drive & Shore Road_60 Min Length.xlsx
+  Export rows: 168
+[2/31] 06_R/6. Route 47 (Delsea Drive), btwn Washington Ave & Creek Mill Rd_60 Min Length.xlsx
+  Export rows: 168
+[3/31] 13_R/ATR 13. Mauricetown Crossway Road, btwn Route 47 & Route 744_60 Min Length.xlsx
+  Export rows: 168
+[4/31] 14_R/ATR 14. Sharp Street, btwn Columbia Ave & Cooper St_60 Min Length.xlsx
+  Export rows: 168
+[5/31] 15_R/ATR 15. NJ 49, btwn Sandy Ridge Road & ByPass Road_60 Min Length.xlsx
+  Export rows: 168
+[6/31] 21_R/ATR 21. NJ 40 (Harding Highway), btwn Mill St & Somers Point Rd_60 Min Length.xlsx
+  Export rows: 168
+[7/31] 23_R/ATR 23. CR 615 N (Northeast Blvd) btwn Oak Road & Wheat Road_60 Min Length.xlsx
+  Export rows: 168
+[8/31] 24_R/ATR 24. NJ 77 (Pole Tavern-Bridgeton), btwn Chestnut St & Newkirk Station Rd_60 Min Length.xlsx
+  Export rows: 168
+[9/31] 42_R/ATR 42. NJ 47 (Delsea Drive), west of GSP, btwn 3rd St & 5th St_60 Min Length.xlsx
+  Export rows: 168
+[10/31] 43_R/ATR 43. NJ 50, btwn School House Ln & Route 49_60 Min Length.xlsx
+  Export rows: 168
+[11/31] 49_R/ATR 49. CR 625 (Sea Isle Blvd), btwn Shore Road & west of GSP_60 Min Length.xlsx
+  Export rows: 168
+[12/31] 50_R/ATR 50. CR 662 (Mill Road), btwn Burton Ave & Route 9_60 Min Length.xlsx
+  Export rows: 168
+[13/31] 51_R/ATR 51. NJ 347 (E Creek Mill Road), btwn NJ 47 & Lehner Rd_60 Min Length.xlsx
+  Export rows: 168
+[14/31] 52_R/ATR 52. NJ 47 (Delsea Drive), btwn Sutton Ln & E Creek Mill Rd_60 Min Length.xlsx
+  Export rows: 168
+[15/31] 53_R/ATR 53. NJ 40 (Harding Highway), West of Millville Avenue_60 Min Length.xlsx
+  Export rows: 168
+[16/31] 58_R/ATR 58. Route 56 (Landis Ave), btwn Alvine Rd & Gershal Ave_60 Min Length.xlsx
+  Export rows: 168
+[17/31] 59_R/ATR 59. CR 552 (Sherman Ave), btwn Carmel Rd & Jesse Bridge Rd_60 Min Length.xlsx
+  Export rows: 168
+[18/31] 61_R/ATR 61. US 9 (New Rd), btwn W California Ave & Ohio Ave_60 Min Length.xlsx
+  Export rows: 168
+[19/31] 62_R/ATR 62. NJ 50 (Philadelphia Ave), btwn Atlantic Ave & Fairmont St_60 Min Length.xlsx
+  Export rows: 168
+[20/31] 63_R/ATR 63. US 9 (New Rd), btwn W Adams Ave & Black Horse Pike_60 Min Length.xlsx
+  Export rows: 168
+[21/31] 64_R/ATR 64. NJ 50, btwn AC Expressway & Route 322_60 Min Length.xlsx
+  Export rows: 168
+[22/31] 65_R/ATR 65. NJ 40 (Harding Hwy). NJ 40, btwn Babcock Road & Route 322_60 Min Length.xlsx
+  Export rows: 168
+[23/31] 66_R/ATR 66. CR 555 (Main Road), btwn E Oak Rd & E Wheat Rd_60 Min Length.xlsx
+  Export rows: 168
+[24/31] 70_R/ATR 70. NJ 40 (Harding Hwy), btwn Route 581 & Slabtown Road_60 Min Length.xlsx
+  Export rows: 168
+[25/31] 71_R/ATR 71. NJ 49 (Shiloh Pike), btwn Barretts Run Rd & Park Dr_60 Min Length.xlsx
+  Export rows: 168
+[26/31] 72_R/ATR 72. Route 9 (Shore Rd), btwn S Delsea Dr & N Wildwood Blvd_60 Min Length.xlsx
+  Export rows: 168
+[27/31] 73_R/ATR 73. Route 9 (Shore Rd), btwn Avalon Blvd & Sea Isle Blvd_60 Min Length.xlsx
+  Export rows: 168
+[28/31] 74_R/ATR 74. NJ 47, btwn Capy May 628 & Route 83_60 Min Length.xlsx
+  Export rows: 168
+[29/31] 75_R/ATR 75. NJ 47, btwn Front Street & Route 347_60 Min Length.xlsx
+  Export rows: 168
+[30/31] 77_R/ATR 77. Wrangleboro Road, btwn AC Expressway & Rt 563 (Tilton Rd)_60 Min Length.xlsx
+  Export rows: 168
+[31/31] 79_R/ATR 79. Longport Blvd, btwn Seaview Dr & Sunset Ave_60 Min Length.xlsx
+  Export rows: 168
+Wrote 5208 rows: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\processed\length_20260928_151355_apc7ulyn\tblLengthByHour_import_daily.txt
+Failed workbooks: 0; incomplete bin-day rows: 0
+Log: C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts\processed\length_20260928_151355_apc7ulyn\length_processing_log.txt

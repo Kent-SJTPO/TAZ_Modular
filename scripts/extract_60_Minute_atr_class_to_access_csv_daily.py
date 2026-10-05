@@ -1,27 +1,50 @@
-# extract_60_Minute_atr_class_to_access_csv_daily.py
+"""Extract Imperial 60 Minute classification workbooks recursively.
+
+Run normally to use SOURCE_FOLDER below. Or use:
+    python extract_60_Minute_atr_class_to_access_csv_daily.py --choose-folder
+    python extract_60_Minute_atr_class_to_access_csv_daily.py --source "C:/Counts"
+    python extract_60_Minute_atr_class_to_access_csv_daily.py --source "C:/Counts" --output "C:/Results"
+
+Requires openpyxl in the Python environment running this script.
+Reads original workbooks directly; never copies, moves, or modifies them.
+Each run writes to a new dated directory beneath OUTPUT_FOLDER.
+Output columns and class aggregation match the original script: all numeric
+columns after column A are summed (directions are combined). Missing hours
+remain zero; daily totals are not certified complete 24-hour counts.
+"""
 
 from __future__ import annotations
 
 import csv
 import re
-import shutil
+import argparse
+import fnmatch
+import os
+import sys
+import tempfile
 from collections import defaultdict
 from datetime import date, datetime, time, timedelta
 from pathlib import Path
 from typing import Any
 
-from openpyxl import load_workbook
+try:
+    from openpyxl import load_workbook
+except ModuleNotFoundError as exc:
+    if exc.name != "openpyxl":
+        raise
+    print("Missing package: openpyxl. Run this in PowerShell:", file=sys.stderr)
+    print(f'& "{sys.executable}" -m pip install openpyxl', file=sys.stderr)
+    raise SystemExit(1) from None
 
 
 SOURCE_FOLDER = Path(
-    r"J:\Data Inventory\Traffic Counts\Imperial\ATR Format\60 Minute"
+    r"C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\input\02_May ATRs"
 )
 
 ROOT_FOLDER = Path(
     r"C:\Users\Kschellinger\SJTPO_Git\TAZ_Modular\traffic_counts"
 )
 
-INPUT_FOLDER = ROOT_FOLDER
 OUTPUT_FOLDER = ROOT_FOLDER / "processed"
 
 INPUT_PATTERN = "*60 Minute*.xlsx"
@@ -216,42 +239,50 @@ def write_log(path: Path, lines: list[str]) -> None:
             file.write(line + "\n")
 
 
-def copy_source_workbooks_to_input(log_lines: list[str]) -> list[Path]:
-    copied_files = []
+def discover_workbooks(source: Path, pattern: str) -> list[Path]:
+    """Search every level; stop on inaccessible folders instead of hiding omissions."""
+    if not source.is_dir():
+        raise FileNotFoundError(f"Source folder not found: {source}")
 
-    if not SOURCE_FOLDER.exists():
-        raise FileNotFoundError(f"Source folder not found: {SOURCE_FOLDER}")
+    def report_error(error: OSError) -> None:
+        raise error
 
-    INPUT_FOLDER.mkdir(parents=True, exist_ok=True)
+    files = []
+    for folder, _, names in os.walk(source, onerror=report_error, followlinks=False):
+        for name in names:
+            if name.startswith("~$") or not name.lower().endswith(".xlsx"):
+                continue
+            if fnmatch.fnmatchcase(name.lower(), pattern.lower()):
+                files.append(Path(folder) / name)
+    return sorted(files, key=lambda path: str(path).casefold())
 
-    source_files = sorted(SOURCE_FOLDER.glob(INPUT_PATTERN))
 
-    if not source_files:
-        raise FileNotFoundError(
-            f"No source files found matching {INPUT_PATTERN} in {SOURCE_FOLDER}"
-        )
-
-    for source_path in source_files:
-        target_path = INPUT_FOLDER / source_path.name
-
-        if target_path.exists():
-            msg = f"Already local, skipped copy: {source_path.name}"
-            print(msg)
-            log_lines.append(msg)
-            continue
-
-        shutil.copy2(source_path, target_path)
-        copied_files.append(target_path)
-
-        msg = f"Copied: {source_path.name}"
-        print(msg)
-        log_lines.append(msg)
-
-    return copied_files
+def choose_source(initial: Path) -> Path | None:
+    """Optional Windows folder picker; cancellation exits without writing files."""
+    try:
+        import tkinter as tk
+        from tkinter import filedialog
+        root = tk.Tk()
+        root.withdraw()
+        try:
+            selected = filedialog.askdirectory(
+                title="Select the parent folder containing ATR workbooks",
+                initialdir=str(initial if initial.is_dir() else Path.home()),
+                mustexist=True,
+            )
+        finally:
+            root.destroy()
+    except Exception as exc:
+        raise RuntimeError(
+            "Could not open the folder picker. Use --source or edit SOURCE_FOLDER. "
+            f"Details: {exc}"
+        ) from exc
+    return Path(selected) if selected else None
 
 
 def process_workbook(
     xlsx_path: Path,
+    source_label: str | None = None,
 ) -> tuple[list[dict[str, Any]], list[dict[str, Any]], list[str], bool]:
 
     warnings = []
@@ -268,7 +299,7 @@ def process_workbook(
 
         base_station_id = derive_base_station_id(summary, xlsx_path)
         description = derive_description(summary, xlsx_path)
-        source_file = xlsx_path.name
+        source_file = source_label or xlsx_path.name
 
         all_data = defaultdict(dict)
         records_by_station_day = defaultdict(int)
@@ -337,7 +368,7 @@ def process_workbook(
 
     except Exception as exc:
         warnings.append(f"SKIPPED {xlsx_path.name}: processing failed: {exc}")
-        return class_rows, station_rows, warnings, success
+        return [], [], warnings, False
 
     finally:
         if wb is not None:
@@ -347,159 +378,100 @@ def process_workbook(
                 pass
 
 
-def main() -> None:
-    OUTPUT_FOLDER.mkdir(parents=True, exist_ok=True)
-
-    log_lines = []
-
-    log_lines.append(f"Run time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-    log_lines.append(f"Source folder: {SOURCE_FOLDER}")
-    log_lines.append(f"Input folder: {INPUT_FOLDER}")
-    log_lines.append(f"Output folder: {OUTPUT_FOLDER}")
-    log_lines.append(f"Pattern: {INPUT_PATTERN}")
-    log_lines.append("")
-
-    print(f"Source folder: {SOURCE_FOLDER}")
-    print(f"Input folder: {INPUT_FOLDER}")
-    print(f"Output folder: {OUTPUT_FOLDER}")
-    print(f"Pattern: {INPUT_PATTERN}")
-    print("")
-
-    copied_files = copy_source_workbooks_to_input(log_lines)
-
-    files = sorted(INPUT_FOLDER.glob(INPUT_PATTERN))
-
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__,
+                                     formatter_class=argparse.RawDescriptionHelpFormatter)
+    source_options = parser.add_mutually_exclusive_group()
+    source_options.add_argument("--source", type=Path, help="Parent folder; all subfolders are searched")
+    source_options.add_argument("--choose-folder", action="store_true", help="Open a folder picker")
+    parser.add_argument("--output", type=Path, default=OUTPUT_FOLDER, help="Parent output folder")
+    parser.add_argument("--pattern", default=INPUT_PATTERN, help="Filename filter (default: %(default)s)")
+    args = parser.parse_args()
+    source = args.source or SOURCE_FOLDER
+    if args.choose_folder:
+        source = choose_source(source)
+        if source is None:
+            print("Cancelled. No output written.")
+            return 0
+    source = source.expanduser().resolve()
+    files = discover_workbooks(source, args.pattern)
     if not files:
         raise FileNotFoundError(
-            f"No local files found matching {INPUT_PATTERN} in {INPUT_FOLDER}"
+            f"No .xlsx files matching {args.pattern!r} found in {source} or its subfolders. "
+            "Check the filename filter and workbook format. No output written."
         )
 
+    output_parent = args.output.expanduser().resolve()
+    output_parent.mkdir(parents=True, exist_ok=True)
+    output = Path(tempfile.mkdtemp(
+        prefix=datetime.now().strftime("atr_%Y%m%d_%H%M%S_"), dir=output_parent
+    ))
+    log_lines = []
+
+    def report(message: str) -> None:
+        print(message, flush=True)
+        log_lines.append(message)
+
+    report(f"Source: {source}")
+    report("Searching all subfolders; reading original files directly.")
+    report(f"Pattern: {args.pattern}")
+    report(f"Matching workbooks: {len(files)}")
+    report(f"Output: {output}")
+    report("NOTE: Missing/invalid values and missing hours become zero, as in the original script.")
+    report("NOTE: Totals combine all count columns; partial days are not excluded.")
     all_class_rows = []
     all_station_rows = []
-    all_warnings = []
-
-    log_lines.append("")
-    log_lines.append(f"Source files copied: {len(copied_files)}")
-    log_lines.append(f"Local workbook count: {len(files)}")
-    log_lines.append("")
-
-    print("")
-    print(f"Source files copied: {len(copied_files)}")
-    print(f"Local workbook count: {len(files)}")
-    print("")
-
-    processed_files = 0
-
-    for xlsx_path in files:
-        msg = f"Processing: {xlsx_path.name}"
-        print(msg)
-        log_lines.append(msg)
-
-        class_rows, station_rows, warnings, success = process_workbook(xlsx_path)
-
-        all_class_rows.extend(class_rows)
-        all_station_rows.extend(station_rows)
-        all_warnings.extend(warnings)
-
-        print(f"  Station-day rows: {len(station_rows)}")
-        print(f"  Class rows:       {len(class_rows)}")
-        print("  Archive step skipped")
-
-        log_lines.append(f"  Station-day rows: {len(station_rows)}")
-        log_lines.append(f"  Class rows:       {len(class_rows)}")
-        log_lines.append("  Archive step skipped")
-
+    processed = 0
+    warning_count = 0
+    seen_station_days = {}
+    for index, path in enumerate(files, 1):
+        label = path.relative_to(source).as_posix()
+        report(f"[{index}/{len(files)}] {label}")
+        class_rows, station_rows, warnings, success = process_workbook(path, label)
         if success:
-            processed_files += 1
+            processed += 1
+            for row in station_rows:
+                key = (row["StationID"], row["FirstDate"])
+                if key in seen_station_days:
+                    warnings.append(
+                        f"POSSIBLE DUPLICATE station/day: {key}; "
+                        f"{seen_station_days[key]} and {label}. Both retained; review before import."
+                    )
+                else:
+                    seen_station_days[key] = label
+            all_class_rows.extend(class_rows)
+            all_station_rows.extend(station_rows)
+        report(f"  Station-day rows: {len(station_rows)}; class rows: {len(class_rows)}")
+        for warning in warnings:
+            report(f"  {label}: {warning}")
+        warning_count += len(warnings)
 
-        print("")
-        log_lines.append("")
-
-    class_fields = [
-        "Station",
-        "CountDate",
-        "VehicleClass",
-        "H01",
-        "H02",
-        "H03",
-        "H04",
-        "H05",
-        "H06",
-        "H07",
-        "H08",
-        "H09",
-        "H10",
-        "H11",
-        "H12",
-        "H13",
-        "H14",
-        "H15",
-        "H16",
-        "H17",
-        "H18",
-        "H19",
-        "H20",
-        "H21",
-        "H22",
-        "H23",
-        "H24",
-        "Total",
-        "SourceFile",
-        "SourceSheet",
-    ]
-
+    class_fields = ["Station", "CountDate", "VehicleClass"] + [
+        f"H{hour:02d}" for hour in range(1, 25)
+    ] + ["Total", "SourceFile", "SourceSheet"]
     station_fields = [
-        "County",
-        "StationID",
-        "FirstDate",
-        "LastDate",
-        "RecordsLoaded",
-        "DaysCollected",
-        "StationType",
-        "Route",
-        "Description",
-        "CountyOrder",
+        "County", "StationID", "FirstDate", "LastDate", "RecordsLoaded",
+        "DaysCollected", "StationType", "Route", "Description", "CountyOrder",
     ]
-
-    class_txt = OUTPUT_FOLDER / CLASS_OUTPUT_NAME
-    station_txt = OUTPUT_FOLDER / STATION_OUTPUT_NAME
-    log_file = OUTPUT_FOLDER / LOG_OUTPUT_NAME
-
-    write_delimited(class_txt, class_fields, all_class_rows)
-    write_delimited(station_txt, station_fields, all_station_rows)
-
-    log_lines.append("Final summary")
-    log_lines.append("------------------------------")
-    log_lines.append(f"Source files copied:     {len(copied_files)}")
-    log_lines.append(f"Workbooks found locally: {len(files)}")
-    log_lines.append(f"Workbooks processed:     {processed_files}")
-    log_lines.append(f"Station-day rows:        {len(all_station_rows)}")
-    log_lines.append(f"Class rows:              {len(all_class_rows)}")
-    log_lines.append(f"Class TXT:               {class_txt}")
-    log_lines.append(f"Station TXT:             {station_txt}")
-
-    if all_warnings:
-        log_lines.append("")
-        log_lines.append("Warnings")
-        log_lines.append("------------------------------")
-        for warning in all_warnings:
-            log_lines.append(warning)
-
-    write_log(log_file, log_lines)
-
-    print("Wrote:")
-    print(f"  {class_txt}")
-    print(f"  {station_txt}")
-    print(f"  {log_file}")
-    print("")
-    print(f"Workbooks processed: {processed_files}")
-    print(f"Station-day rows:    {len(all_station_rows)}")
-    print(f"Class rows:          {len(all_class_rows)}")
-
-    if all_warnings:
-        print("")
-        print("Warnings were written to the processing log.")
+    if all_class_rows:
+        write_delimited(output / CLASS_OUTPUT_NAME, class_fields, all_class_rows)
+        write_delimited(output / STATION_OUTPUT_NAME, station_fields, all_station_rows)
+        report(f"Wrote: {output / CLASS_OUTPUT_NAME}")
+        report(f"Wrote: {output / STATION_OUTPUT_NAME}")
+    else:
+        report("No usable class data found. No import tables written; see warnings.")
+    report(f"Processed: {processed}/{len(files)}; warnings: {warning_count}")
+    report(f"Class rows: {len(all_class_rows)}; station-day rows: {len(all_station_rows)}")
+    if warning_count:
+        report("Review the log before importing: files or class sheets may be missing, or counts duplicated.")
+    report(f"Log: {output / LOG_OUTPUT_NAME}")
+    write_log(output / LOG_OUTPUT_NAME, log_lines)
+    return 0 if processed == len(files) and all_class_rows else 1
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        raise SystemExit(main())
+    except (OSError, RuntimeError, ValueError) as exc:
+        print(f"ERROR: {exc}", file=sys.stderr)
+        raise SystemExit(1) from None
